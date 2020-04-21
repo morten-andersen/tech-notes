@@ -1,4 +1,4 @@
-### Video Tools (2020)
+### Video Tools
 
 The verge overview - [Alternatives to Zoom](https://www.theverge.com/2020/4/1/21202945/zoom-alternative-conference-video-free-app-skype-slack-hangouts-jitsi)
 
