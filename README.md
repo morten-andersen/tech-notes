@@ -1,7 +1,13 @@
-# tech-notes
+# Technical Notes
+
 Notes for various tech areas
 
-## tools
+## Linux
+
+* [Linux Notes](./linux)
+
+## Tools
+* [Office Suites](./tools/office.md)
 * [Video Meeting software](./tools/video-meetings.md)
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
