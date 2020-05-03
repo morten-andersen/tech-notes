@@ -1,6 +1,4 @@
-# Technical Notes
-
-Notes for various tech areas
+# Personal Notes for Various Technical Stuff
 
 ## Linux
 
