@@ -1,6 +1,6 @@
-## Disk Tools
+### Disk Tools
 
-### Safe Remove - [`srm`](https://manpages.ubuntu.com/manpages/focal/en/man1/srm.1.html)
+#### Safe Remove - [`srm`](https://manpages.ubuntu.com/manpages/focal/en/man1/srm.1.html)
 
 The secure remove toolkit:
 
@@ -8,7 +8,7 @@ The secure remove toolkit:
 * `sfill`
 * `sdmem`
 
-### Fill a Harddisk with 1000 1 GB files
+#### Fill a Harddisk with 1000 1 GB files
 
 ```bash
 for i in {000..999}; do dd if=/dev/zero of=filename${i} bs=$((1024*1024)) count=1024; done

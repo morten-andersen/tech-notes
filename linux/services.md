@@ -1,8 +1,8 @@
-## Linux Services
+### Linux Services
 
 https://linoxide.com/linux-how-to/enable-disable-services-ubuntu-systemd-upstart/
 
-### modern: `systemd` - `systemctl`
+#### modern: `systemd` - `systemctl`
 
 ```
 sudo systemctl status <service>
@@ -16,6 +16,6 @@ sudo systemctl list-units --type=service --state=running
 sudo systemctl list-units --type=service --state=active
 ```
 
-### before that: `upstart`
+#### before that: `upstart`
 
-### old: `sysV (rc.d)``
+#### old: `sysV (rc.d)``

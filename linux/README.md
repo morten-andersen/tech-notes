@@ -1,13 +1,7 @@
 ### Linux Notes
 
-#### Disk Tools
+#### [Disk Tools](./disk-tools.md)
 
-[Disk Tools](./disk-tools.md)
+#### [Network Tools](./network-tools.md)
 
-#### Network Tools
-
-[Network Tools](./network-tools.md)
-
-#### Linux Services
-
-[Linux Services](./services.md)
+#### [Linux Services](./services.md)

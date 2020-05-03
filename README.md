@@ -7,6 +7,7 @@ Notes for various tech areas
 * [Linux Notes](./linux)
 
 ## Tools
+
 * [Office Suites](./tools/office.md)
 * [Video Meeting software](./tools/video-meetings.md)
 
