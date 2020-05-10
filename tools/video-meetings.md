@@ -2,6 +2,8 @@
 
 The verge overview - [Alternatives to Zoom](https://www.theverge.com/2020/4/1/21202945/zoom-alternative-conference-video-free-app-skype-slack-hangouts-jitsi)
 
+Mozilla *privacy not included* review of [privacy of video apps - april 2020](https://foundation.mozilla.org/en/privacynotincluded/categories/video-call-apps/)
+
 * [jitsi](https://jitsi.org/) Open Source
   * can be fully hosted.
   * [AWS setup in EC2 or ECR](https://aws.amazon.com/blogs/opensource/getting-started-with-jitsi-an-open-source-web-conferencing-solution/)
