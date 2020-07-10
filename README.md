@@ -2,12 +2,17 @@
 
 ## Linux
 
-* [Linux Notes](./linux)
+* [Linux Notes](./linux) - Linux notes. Primarily for command line tools
 
-## Tools
+## Network and Web
 
-* [Office Suites](./tools/office.md)
-* [Video Meeting software](./tools/video-meetings.md)
+* [Network Testing](./tools/network-testing.md) - online tools for testing network settings for HTTP servers
+* [Web Testing](./tools/web-testing.md) - online tools for testing web pages. Primarily for load speed
+
+## Office Tools
+
+* [Office Suites](./tools/office.md) - list of free office suites
+* [Video Meeting software](./tools/video-meetings.md) - list of free video meeting software
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 

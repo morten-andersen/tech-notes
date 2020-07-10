@@ -18,4 +18,4 @@ sudo systemctl list-units --type=service --state=active
 
 #### before that: `upstart`
 
-#### old: `sysV (rc.d)``
+#### old: `sysV (rc.d)`

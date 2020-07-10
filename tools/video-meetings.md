@@ -1,5 +1,7 @@
 ### Video Tools
 
+List of free video meeting software
+
 The verge overview - [Alternatives to Zoom](https://www.theverge.com/2020/4/1/21202945/zoom-alternative-conference-video-free-app-skype-slack-hangouts-jitsi)
 
 Mozilla *privacy not included* review of [privacy of video apps - april 2020](https://foundation.mozilla.org/en/privacynotincluded/categories/video-call-apps/)
@@ -8,7 +10,7 @@ Mozilla *privacy not included* review of [privacy of video apps - april 2020](ht
   * can be fully hosted.
   * [AWS setup in EC2 or ECR](https://aws.amazon.com/blogs/opensource/getting-started-with-jitsi-an-open-source-web-conferencing-solution/)
   * [AWS setup via Terraform scripts](https://avasdream.engineer/terraform-jitsi)
-* [Whereby](https://whereby.com/) -formerly [appear.in](https://appear.in/)
+* [Whereby](https://whereby.com/) - formerly [appear.in](https://appear.in/)
 * [Google Hangouts](https://hangouts.google.com/)
 * [Google Meet](https://meet.google.com/)
 * [Zoom](https://zoom.us/) - privacy problemer

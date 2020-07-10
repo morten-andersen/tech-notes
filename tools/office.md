@@ -1,5 +1,7 @@
 ### Office Suites
 
+List of free office suites
+
 #### Online
 
 * [Google Docs](https://www.google.com/docs/about/)
@@ -16,7 +18,7 @@
 * [LibreOffice](https://www.libreoffice.org/)
 * [ThinkFree Office](https://www.thinkfree.com/) - alternative to MS Office.
 
-#### OsX
+##### OsX
 
 * iWork Suite - free
   * Pages
