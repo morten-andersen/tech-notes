@@ -23,7 +23,9 @@ docker-ce/bionic 5:18.09.5~3-0~ubuntu-bionic amd64
 
 #### Install Specific Package Version
 
+```bash
 apt install <package>=<version>
+```
 
 Eg. for `docker-ce`:
 
