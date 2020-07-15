@@ -9,6 +9,10 @@
 * [Network Testing](./tools/network-testing.md) - online tools for testing network settings for HTTP servers
 * [Web Testing](./tools/web-testing.md) - online tools for testing web pages. Primarily for load speed
 
+## Time
+
+* [Time Related Notes](./time) - links to various information about high resolution time as well as to more general information about calendars.
+
 ## Office Tools
 
 * [Office Suites](./tools/office.md) - list of free office suites
