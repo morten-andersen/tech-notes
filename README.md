@@ -1,5 +1,9 @@
 # Personal Notes for Various Technical Stuff
 
+## Programming Languages and Development Tools
+
+* [Programming Language Notes](./pogramming) - notes on Java, JavaScript, node.js, etc.
+
 ## Linux
 
 * [Linux Notes](./linux) - Linux notes. Primarily for command line tools
@@ -12,6 +16,10 @@
 ## Time
 
 * [Time Related Notes](./time) - links to various information about high resolution time as well as to more general information about calendars.
+
+## Technical notes
+
+* [*Technical notes*](./technical) for various technical areas.
 
 ## Office Tools
 
