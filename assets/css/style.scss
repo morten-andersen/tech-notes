@@ -11,11 +11,11 @@ body {
   background-image: none;
   color: lightgray;
 }
-.main-content ul, .main-content ol {
+.main-content>ul, .main-content>ol {
   border: 1px solid #606c71;
   border-radius:  10px;
   padding: 20px 40px;
 }
 .main-content pre, .main-content code {
-  background-color: #black;
+  background-color: lightgray;
 }
