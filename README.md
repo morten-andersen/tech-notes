@@ -2,7 +2,7 @@
 
 ## Programming Languages and Development Tools
 
-* [Programming Language Notes](./pogramming) - notes on Java, JavaScript, node.js, etc.
+* [Programming Language Notes](./programming) - notes on Java, JavaScript, node.js, etc.
 
 ## Linux
 
@@ -19,7 +19,7 @@
 
 ## Technical notes
 
-* [*Technical notes*](./technical) for various technical areas.
+* [Technical notes](./technical) - for various technical areas.
 
 ## Office Tools
 
