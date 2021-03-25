@@ -4,6 +4,6 @@ defaults:
       path: ""
     values:
       image:
-        path: /assets/tech.webp
+        path: /assets/tech.jpg
         height: 640
         width: 1280
