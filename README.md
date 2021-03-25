@@ -20,6 +20,7 @@
 ## Technical notes
 
 * [Technical notes](./technical) - for various technical areas.
+  * [*IEC-61400-25*](./technical/iec61400-25) - a standard describing *communication* between SCADA systems and wind power plants/turbines.
 
 ## Office Tools
 

@@ -16,4 +16,4 @@ Available on the [Wayback Machine](https://web.archive.org/web/20160308031939/ht
 
 #### Calendar History (in Danish)
 
-[Time measurement and calendars](https://morten-andersen.github.io/book-notes/corona/kalender/kalender.pdf) - a presentation I prepared for a 7th grader in the Corona lockdown in spring 2020.
+[Time measurement and calendars](https://book-notes.accel.dk/volunteer/corona/kalender/kalender.pdf) - a presentation I prepared for a 7th grader in the Corona lockdown in spring 2020.
