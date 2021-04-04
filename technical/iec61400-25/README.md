@@ -6,7 +6,7 @@ IEC61400-25 is a standard describing *communication* between SCADA systems and w
 
 In large parts IEC61400-25 extends or builds upon the *Information Model (IM)* and *Information Exchange Model (IEM)* standardized in IEC61850-7.
 
-![IEC61400-25](iec61400.jpg)
+[![IEC61400-25](iec61400.jpg "IEC61400-25")](iec61400.jpg)
 
 To get a relatively complete overview of the main idea of the standard and the content of the main parts, chapter 5-8 in 25-1 should be read (approximately 20 pages).
 
@@ -19,7 +19,7 @@ To get a relatively complete overview of the main idea of the standard and the c
   * It should be noted that the IM in IEC61400-25-2 is not a completely self-contained model. Quite a few of the logical nodes and datatypes are just references to content described in IEC61850-7.
 * **25-3 Information Exchange Model (IEM)** describes an *abstract* communication model. On the mindmap it is seen how this defines a number of operations, listed in the box on the left: *ACSI - Abstract Communication Service Interface* and detailed below.
 
-![IEC61400-25-3](iec61400-ACSI.jpg)
+[![IEC61400-25-3](iec61400-ACSI.jpg "IEC61400-25-3")](iec61400-ACSI.jpg)
 
   * For IEC61400-25-3 it should also be noted that the IEM is not completely self-contained. Quite a few details of the services are references to content described in IEC61850-7.
 * **25-4 IEM Mapping to Communication Profile** describes 5 different actual implementations of the IEM.
