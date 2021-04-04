@@ -1,28 +1,28 @@
-# Personal Notes for Various Technical Stuff
+## Personal Notes for Various Technical Stuff
 
-## Programming Languages and Development Tools
+### Programming Languages and Development Tools
 
 * [Programming Language Notes](./programming) - notes on Java, JavaScript, node.js, etc.
 
-## Linux
+### Linux
 
 * [Linux Notes](./linux) - Linux notes. Primarily for command line tools
 
-## Network and Web
+### Network and Web
 
 * [Network Testing](./tools/network-testing.md) - online tools for testing network settings for HTTP servers
 * [Web Testing](./tools/web-testing.md) - online tools for testing web pages. Primarily for load speed
 
-## Time
+### Time
 
 * [Time Related Notes](./time) - links to various information about high resolution time as well as to more general information about calendars.
 
-## Technical notes
+### Technical notes
 
 * [Technical notes](./technical) - for various technical areas.
   * [*IEC-61400-25*](./technical/iec61400-25) - a standard describing *communication* between SCADA systems and wind power plants/turbines.
 
-## Office Tools
+### Office Tools
 
 * [Office Suites](./tools/office.md) - list of free office suites
 * [Video Meeting software](./tools/video-meetings.md) - list of free video meeting software
