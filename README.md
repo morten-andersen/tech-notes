@@ -27,6 +27,10 @@
 * [Office Suites](./tools/office.md) - list of free office suites
 * [Video Meeting software](./tools/video-meetings.md) - list of free video meeting software
 
+### Open Source Software - *Putting your money where your mouth is*
+
+* [Open Source Donations](./opensource) - list of all the open source projects I have donated to
+
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
