@@ -1,6 +1,7 @@
 ### Open Source Software
 
-I am a proud open source software supporter. Mostly financially instead of donation of time and effort.
+I am a proud open source software supporter.
+Mostly financially instead of donation of time and effort.
 
 #### Private Donations
 
