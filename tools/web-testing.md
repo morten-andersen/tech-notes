@@ -11,5 +11,9 @@ Online tools for testing **web pages**. Primarily for load speed
 
 #### Meta Tags - Open Graph
 
-* [Meta Tags](https://metatags.io/) test and preview how [Open Graph](https://ogp.me/) tags shows a webpage on social media.
+* [Meta Tags](https://metatags.io/) test and preview how [Open Graph](https://ogp.me/) tags shows a webpage on social media
 * [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/) shows information about how a post with a link will preview on LinkedIn
+
+#### Emoji's
+
+* [Emojipedia](https://emojipedia.org/) for looking up how emoji's looks on different platforms
