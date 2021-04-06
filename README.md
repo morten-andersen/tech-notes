@@ -1,4 +1,4 @@
-## Personal Notes for Various Technical Stuff
+## ⚙️ Personal Notes for Various Technical Stuff
 
 ### Programming Languages and Development Tools
 
