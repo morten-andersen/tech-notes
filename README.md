@@ -31,7 +31,6 @@
 
 * [Open Source Donations](./opensource) - list of the open source projects I have donated to
 
----
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
