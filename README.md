@@ -1,5 +1,3 @@
-## ⚙️ Personal Notes for Various Technical Stuff
-
 ### Programming Languages and Development Tools
 
 * [Programming Language Notes](./programming) - notes on Java, JavaScript, node.js, etc.
