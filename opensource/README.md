@@ -1,20 +1,19 @@
 ### Open Source Software
 
-I am a proud open source software supporter.
-Mostly financially instead of donation of time and effort.
+I am a proud open source software supporter. Mostly financially instead of donation of time and effort.
 
-#### Private Donations
+Below is a list of the projects I have donated to over the years.
 
-##### 2021
+#### 2021
 
 * [Copenhagen Suborbitals](https://copenhagensuborbitals.com) the worlds only manned amateur space program. I have been supporting this every month since 2011
 
-##### 2017
+#### 2017
 
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/) - for defending digital privacy, free speech, and innovation on the Internet
 * [Zeroshell Linux Router](https://zeroshell.org/) which I ran on my personal router and wifi access point on a PC Engines [Alix board](https://www.pcengines.ch/alix.htm).
 
-##### 2016
+#### 2016
 
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/)
 * [Enigmail](https://www.enigmail.net/) - OpenPGP plugin for Mozilla Seamonkey and Thunderbird
@@ -29,7 +28,7 @@ Mostly financially instead of donation of time and effort.
 * [Wikipedia](https://www.wikipedia.org/)
 * [Zeroshell Linux Router](https://zeroshell.org/)
 
-##### 2014
+#### 2014
 
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/)
 * [KeePassX](https://www.keepassx.org/)
@@ -40,7 +39,7 @@ Mostly financially instead of donation of time and effort.
 * [Wikipedia](https://www.wikipedia.org/)
 * [Zeroshell Linux Router](https://zeroshell.org/)
 
-##### 2013
+#### 2013
 
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/)
 * [LibreOffice](https://www.libreoffice.org/)
@@ -49,7 +48,7 @@ Mostly financially instead of donation of time and effort.
 * [Ubuntu](https://ubuntu.com/)
 * [Zeroshell Linux Router](https://zeroshell.org/)
 
-##### 2012
+#### 2012
 
 * [KeePassDroid](http://www.keepassdroid.com/) KeePass password manager for Android
 * [LibreOffice](https://www.libreoffice.org/)
@@ -58,13 +57,13 @@ Mostly financially instead of donation of time and effort.
 * [Ubuntu](https://ubuntu.com/)
 * [Zeroshell Linux Router](https://zeroshell.org/)
 
-##### 2010
+#### 2010
 
 * [Lyx](https://www.lyx.org/) TeX/LaTeX editor
 * [NoScript](https://noscript.net/)
 * [The Libel Reform Campaign](http://www.libelreform.org/) a campaign to reform the libel and deformation laws in Great Britain which threatened scientific debate
 
-##### 2009
+#### 2009
 
 * [Mozilla Foundation](https://www.mozilla.org)
 * [OpenOffice](https://www.openoffice.org/)
