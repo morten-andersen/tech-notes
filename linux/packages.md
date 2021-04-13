@@ -2,8 +2,6 @@
 
 Advanced Package Tool.
 
-https://linuxize.com/post/how-to-install-and-use-docker-on-ubuntu-18-04/
-
 #### Search for a Package
 
 ```bash

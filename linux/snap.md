@@ -1,6 +1,6 @@
 ### Snap - Universal Linux Packages
 
-https://snapcraft.io/
+[https://snapcraft.io](https://snapcraft.io/)
 
 #### Search for a Package
 
