@@ -19,3 +19,7 @@ Tools for managing Linux services.
 #### [Ubuntu APT Package Manager](./packages.md)
 
 Command line for managing APT
+
+#### [Snap - Universal Linux Packages](./snap.md)
+
+Command line for managing Snap packages
