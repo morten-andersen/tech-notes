@@ -36,3 +36,17 @@ Eg. for `docker-ce`:
 ```bash
 apt install docker-ce=5:18.09.6~3-0~ubuntu-bionic
 ```
+
+#### 'Hold' a Package back on a Specific Version (the current version)
+
+```bash
+apt-mark hold <package>
+```
+
+This will hold the package back from updating when running `apt upgrade` (the package will look to be upgradeable, but will actually be hold back).
+
+The hold packages can be shown with
+
+```bash
+apt-mark showhold
+```
