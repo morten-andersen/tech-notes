@@ -1,4 +1,4 @@
-### curl - for url requests
+### [curl](https://curl.se/) - for url requests
 
 #### Basic auth
 
