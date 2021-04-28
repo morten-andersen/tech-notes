@@ -1,7 +1,6 @@
 ### R Statistical Language
 
-* https://www.r-project.org/
-
+* [The R Project for Statistical Computing](https://www.r-project.org/)
 * [R Graphics Cookbook](https://r-graphics.org)
 
 #### Install (Ubuntu)

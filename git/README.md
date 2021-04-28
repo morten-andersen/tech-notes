@@ -28,6 +28,8 @@
 
 #### helper function for working with multiple repositories in subfolders
 
+Insert in `~/.bash_aliases`
+
 ```bash
 # command for executing a git command in all git sub folders
 # usage:

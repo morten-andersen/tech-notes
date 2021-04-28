@@ -1,6 +1,6 @@
 ### SDKMAN
 
-* https://sdkman.io/
+* [Software Development Kit Manager - SDKMAN](https://sdkman.io/)
 
 #### CLI
 

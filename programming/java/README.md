@@ -1,6 +1,6 @@
 ### What JVM (2020)
 
-* https://developer.okta.com/blog/2019/01/16/which-java-sdk
+* [*Which Java SDK Should You Use?*](https://developer.okta.com/blog/2019/01/16/which-java-sdk)
   * [OpenJDK](https://openjdk.java.net/) - java.net in sdkman.
   * [AdoptOpenJDK](https://adoptopenjdk.net/) - binaries build from openjdk.
     * [OpenJDK Hotspot](https://openjdk.java.net/groups/hotspot/)
@@ -19,7 +19,7 @@
 
 ### Documentation
 
-* https://docs.oracle.com/en/java/javase/index.html
+* [Java SE Documentation](https://docs.oracle.com/en/java/javase/index.html)
 
 #### Version 8 (LTS) - 2014-03
 

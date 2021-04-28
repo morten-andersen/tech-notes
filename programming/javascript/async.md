@@ -1,6 +1,6 @@
 ### Asynchronous Coding
 
-https://javascript.info/async
+[javascript.into -> Promises, async/await](https://javascript.info/async)
 
 #### Callbacks
 

@@ -1,6 +1,6 @@
 ### Express - Web Framework
 
-[Express](https://expressjs.com/)
+[Express](https://expressjs.com/) web framework for Node.js
 
 #### Installing
 
