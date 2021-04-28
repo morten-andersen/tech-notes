@@ -8,6 +8,8 @@ Tools for working with the file system.
 
 Network command line tools. DNS and ip tools.
 
+[curl](./curl.md) for url requests
+
 #### [Linux Services](./services.md)
 
 Tools for managing Linux services.

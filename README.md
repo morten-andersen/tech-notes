@@ -13,6 +13,7 @@ Notes on programming languages, network, systems, calendars, etc.
 
 * [**Network Testing**](./tools/network-testing.md) - online tools for testing network settings for HTTP servers
 * [**Web Testing**](./tools/web-testing.md) - online tools for testing web pages. Primarily for load speed
+* [**Password sharing**](./tools/passwords.md) - services for sharing passwords
 
 ### Time
 
