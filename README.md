@@ -2,34 +2,35 @@ Notes on programming languages, network, systems, calendars, etc.
 
 ### Programming Languages and Development Tools
 
-* [Programming Language Notes](./programming) - notes on Java, JavaScript, node.js, etc.
+* [**Programming Language Notes**](./programming) - notes on Java, JavaScript, node.js, etc.
+* [**git**](./git) - notes on git revision control
 
 ### Linux
 
-* [Linux Notes](./linux) - Linux notes. Primarily for command line tools
+* [**Linux Notes**](./linux) - Linux notes. Primarily for command line tools
 
 ### Network and Web
 
-* [Network Testing](./tools/network-testing.md) - online tools for testing network settings for HTTP servers
-* [Web Testing](./tools/web-testing.md) - online tools for testing web pages. Primarily for load speed
+* [**Network Testing**](./tools/network-testing.md) - online tools for testing network settings for HTTP servers
+* [**Web Testing**](./tools/web-testing.md) - online tools for testing web pages. Primarily for load speed
 
 ### Time
 
-* [Time Related Notes](./time) - links to various information about high resolution time as well as to more general information about calendars.
+* [**Time Related Notes**](./time) - links to various information about high resolution time as well as to more general information about calendars.
 
 ### Technical notes
 
-* [Technical notes](./technical) - for various technical areas.
+* [**Technical notes**](./technical) - for various technical areas.
   * [*IEC-61400-25*](./technical/iec61400-25) - a standard describing *communication* between SCADA systems and wind power plants/turbines.
 
 ### Office Tools
 
-* [Office Suites](./tools/office.md) - list of free office suites
-* [Video Meeting software](./tools/video-meetings.md) - list of free video meeting software
+* [**Office Suites**](./tools/office.md) - list of free office suites
+* [**Video Meeting software**](./tools/video-meetings.md) - list of free video meeting software
 
 ### Open Source Software - *Putting your money where your mouth is*
 
-* [Open Source Donations](./opensource) - list of the open source projects I have donated to
+* [**Open Source Donations**](./opensource) - list of the open source projects I have donated to
 
 
 [![CC BY 4.0][cc-by-image]][cc-by]

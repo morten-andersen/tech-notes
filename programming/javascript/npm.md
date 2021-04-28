@@ -12,4 +12,6 @@ Javascript package manager. The default package manager for node.js.
 npm tool for checking and performing dependency upgrades
 
 * `npx npm-check-updates -t patch` - list packages that can have their patch version bumped (`target patch`)
-* `npx npm-check-updates -t patch -u` - upgrade the packages
+  * add `-u` flag to apply the upgrades instead of just listing
+* `npx npm-check-updates <package> <package>` - list upgrades for specified packages. Wildcards are supported - e.g. `nestjs-*`
+  * add `-u` flag to apply the upgrades instead of just listing

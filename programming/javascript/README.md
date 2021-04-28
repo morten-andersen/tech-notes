@@ -1,6 +1,16 @@
-### JavaScript and Node.js
+### JavaScript
 
 * [Asynchronous Coding](./async.md) information on *callbacks*, *callback hell* / *pyramid of doom* and evolution into `Promises` in ES6
+* [Express - Web Framework](./express.md) for setting up an ExpressJS webserver
+
+### TypeScript
+
+* [Setup TypeScript](./setup.md) information on setting up a new TypeScript project
+* [JSON in TypeScript](./json.md) information on working with JSON in TypeScript
+* [Checks of TypeScript](./ts-checks.md) bash scripts to check TypeScript projects
+
+### Node.js
+
 * [Node.js](./nodejs.md) information on **Node Version Manager** `nvm`
 * [npm](./npm.md) information on **Node Package Manager** `npm`
 
