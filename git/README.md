@@ -22,6 +22,10 @@
 
 * `git remote set-url origin <remote url>`
 
+#### updating from a cloned/forked repository
+
+* [Updating Cloned/Forked Repository On Local Machine and GitHub!](https://avilpage.com/2014/11/git-updating-clonedforked-repository-on.html)
+
 #### execute git in subfolder
 
 * `git -C <folder> <command>`
