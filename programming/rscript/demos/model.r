@@ -18,6 +18,10 @@ print(model)          # Print the model’s results.
 
 summary(model)        # Display an in-depth summary of the model.
 
+png("out/model.png")  # Specify the png output file name
+par(mfrow = c(2, 2))  # Create a 2 by 2 layout for figures.
+plot(model)           # Plot diagnostic plots of the model.
+
 pdf("out/model.pdf")  # Specify the pdf output file name
 par(mfrow = c(2, 2))  # Create a 2 by 2 layout for figures.
 plot(model)           # Plot diagnostic plots of the model.
