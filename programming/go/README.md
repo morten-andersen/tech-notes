@@ -14,7 +14,7 @@ editor: Atom - [go-plus](https://github.com/joefitzgerald/go-plus)
 
 Package [`builtin`](https://golang.org/pkg/builtin/) documents the builtin functions and identifiers
 
-##### *[imports](https://tour.golang.org/basics/2)*
+#### *[imports](https://tour.golang.org/basics/2)*
 
 two formats:
 ```go
@@ -29,11 +29,11 @@ import (
 )
 ```
 
-##### *[exported names](https://tour.golang.org/basics/3)*
+#### *[exported names](https://tour.golang.org/basics/3)*
 
 a name is exported if it begins with a capital letter
 
-##### *[multiple results](https://tour.golang.org/basics/6)*
+#### *[multiple results](https://tour.golang.org/basics/6)*
 
 a function can return any number of results:
 ```go
@@ -42,7 +42,7 @@ func swap(x, y string) (string, string) {
 }
 ```
 
-##### *[named return values](https://tour.golang.org/basics/7)*
+#### *[named return values](https://tour.golang.org/basics/7)*
 
 return values may be named. If so, they are treated as variables defined at the top of the function. These names should be used to document the meaning of the return values.
 ```go
@@ -53,28 +53,28 @@ func split(sum int) (x, y int) {
 }
 ```
 
-##### *[variables](https://tour.golang.org/basics/8)*
+#### *[variables](https://tour.golang.org/basics/8)*
 
 declare variables with the `var` keyword. A var statement can be at package or function level:
 ```go
 var isOk, isError bool
 ```
 
-##### *[variables with initializers](https://tour.golang.org/basics/9)*
+#### *[variables with initializers](https://tour.golang.org/basics/9)*
 
 if an initializer is present the type can be omitted:
 ```go
 var c, python, java = true, false, "no!"
 ```
 
-##### *[short variable declarations :=](https://tour.golang.org/basics/10)*
+#### *[short variable declarations :=](https://tour.golang.org/basics/10)*
 
 inside a function, the `:=` short assignment statement can be used in place of a var declaration with implicit type.
 ```go
 c := true
 ```
 
-##### *[basic types](https://tour.golang.org/basics/11)*
+#### *[basic types](https://tour.golang.org/basics/11)*
 
 * `bool`
 * `string`
@@ -94,7 +94,7 @@ var (
 )
 ```
 
-##### *[Zero values](https://tour.golang.org/basics/12)*
+#### *[Zero values](https://tour.golang.org/basics/12)*
 
 Variables declared without an explicit initial value are given their zero value.
 
@@ -103,7 +103,7 @@ The zero value is:
 * false for the boolean type,
 * "" (the empty string) for strings.
 
-##### *[Type conversions](https://tour.golang.org/basics/13)*
+#### *[Type conversions](https://tour.golang.org/basics/13)*
 
 The expression `T(v)` converts the value v to the type T.
 ```go
@@ -112,7 +112,7 @@ var f float64 = float64(i)
 var u uint = uint(f)
 ```
 
-##### *[Type inference](https://tour.golang.org/basics/14)*
+#### *[Type inference](https://tour.golang.org/basics/14)*
 
 Print the type of a variable:
 ```go
@@ -122,11 +122,11 @@ func main() {
 }
 ```
 
-##### *[Constants](https://tour.golang.org/basics/15)*
+#### *[Constants](https://tour.golang.org/basics/15)*
 
 Declared with the `const` keyword.
 
-##### *[Loop - for](https://tour.golang.org/flowcontrol/1)*
+#### *[Loop - for](https://tour.golang.org/flowcontrol/1)*
 
 Without parenthesis. Note usage of `:=` (short assignment statement).
 ```go
@@ -134,7 +134,7 @@ for i := 0; i < 10; i++ {
 	sum += i
 }
 ```
-##### *[Loop - for is while](https://tour.golang.org/flowcontrol/3)*
+#### *[Loop - for is while](https://tour.golang.org/flowcontrol/3)*
 
 C's `while` is spelled `for` in Go. Basically a `for` loop without initializer and post statement.
 ```go
@@ -144,7 +144,7 @@ for sum < 1000 {
 }
 ```
 
-##### *[Loop - forever](https://tour.golang.org/flowcontrol/4)*
+#### *[Loop - forever](https://tour.golang.org/flowcontrol/4)*
 
 Infinite loop.
 ```go
@@ -153,7 +153,7 @@ for {
 }
 ```
 
-##### *[If - with a short statement](https://tour.golang.org/flowcontrol/6)*
+#### *[If - with a short statement](https://tour.golang.org/flowcontrol/6)*
 
 The parentheses in `if` are optional.
 
@@ -164,7 +164,7 @@ if v := math.Pow(x, n); v < lim {
 }
 ```
 
-##### *[Switch](https://tour.golang.org/flowcontrol/9)*
+#### *[Switch](https://tour.golang.org/flowcontrol/9)*
 
 Go only runs the selected case, not all the cases that follow. In effect, the `break` statement that is needed at the end of each case in those languages is provided automatically in Go.
 
@@ -180,7 +180,7 @@ does not call `f if i == 0`.
 
 Another important difference is that Go's `switch` cases need not be constants, and the values involved need not be integers.
 
-##### *[Switch with no condition](https://tour.golang.org/flowcontrol/11)*
+#### *[Switch with no condition](https://tour.golang.org/flowcontrol/11)*
 
 Switch without a condition is the same as switch true. This construct can be a clean way to write long if-then-else chains.
 ```go
@@ -194,7 +194,7 @@ default:
 }
 ```
 
-##### *[Defer](https://tour.golang.org/flowcontrol/12)*
+#### *[Defer](https://tour.golang.org/flowcontrol/12)*
 
 A `defer` statement defers the execution of a function until the surrounding function returns. The deferred call's arguments are evaluated immediately, but the function call is not executed until the surrounding function returns.
 ```go
@@ -209,7 +209,7 @@ Deferred function calls are pushed onto a stack. When a function returns, its de
 
 See more [Defer, Panic and Recover](https://blog.golang.org/defer-panic-and-recover).
 
-##### *[Pointers](https://tour.golang.org/moretypes/1)*
+#### *[Pointers](https://tour.golang.org/moretypes/1)*
 
 * The type `*T` is a pointer to a `T` value. Its zero value is nil.
   ```go
@@ -226,7 +226,7 @@ See more [Defer, Panic and Recover](https://blog.golang.org/defer-panic-and-reco
   *p = 21         // set i through the pointer p
   ```
 
-##### *[Structs](https://tour.golang.org/moretypes/2)*
+#### *[Structs](https://tour.golang.org/moretypes/2)*
 
 ```go
 type Vertex struct {
@@ -240,11 +240,11 @@ func main() {
 ```
 Struct fields are accessed using a dot.
 
-##### *[Struct Pointers](https://tour.golang.org/moretypes/4)*
+#### *[Struct Pointers](https://tour.golang.org/moretypes/4)*
 
 To access the field X of a struct when we have the struct pointer `p` we could write `(*p).X`. However, that notation is cumbersome, so the language permits us instead to write just `p.X`, without the explicit dereference.
 
-##### *[Struct Literals](https://tour.golang.org/moretypes/5)*
+#### *[Struct Literals](https://tour.golang.org/moretypes/5)*
 
 A struct literal denotes a newly allocated struct value by listing the values of its fields. You can list just a subset of fields by using the `Name:` syntax. (And the order of named fields is irrelevant.)
 ```go
@@ -256,7 +256,7 @@ var (
 )
 ```
 
-##### *[Arrays](https://tour.golang.org/moretypes/6)*
+#### *[Arrays](https://tour.golang.org/moretypes/6)*
 
 The type `[n]T` is an array of `n` values of type `T`.
 
@@ -266,7 +266,7 @@ var a [10]int
 primes := [6]int{2, 3, 5, 7, 11, 13}
 ```
 
-##### *[Slices](https://tour.golang.org/moretypes/7)*
+#### *[Slices](https://tour.golang.org/moretypes/7)*
 
 An array has a fixed size. A slice, on the other hand, is a dynamically-sized, flexible view into the elements of an array. In practice, slices are much more common than arrays.
 
@@ -281,7 +281,7 @@ When slicing, you may omit the high or low bounds to use their defaults instead.
 
 Changing the elements of a slice modifies the corresponding elements of its underlying array. Other slices that share the same underlying array will see those changes.
 
-##### *[Slice Literals](https://tour.golang.org/moretypes/9)*
+#### *[Slice Literals](https://tour.golang.org/moretypes/9)*
 
 A slice literal is like an array literal without the length. This is an array literal:
 ```go
@@ -292,7 +292,7 @@ And this creates the same array as above, then builds a slice that references it
 []bool{true, true, false}
 ```
 
-##### *[Slice Length and Capacity](https://tour.golang.org/moretypes/11)*
+#### *[Slice Length and Capacity](https://tour.golang.org/moretypes/11)*
 
 A slice has both a length and a capacity.
 The length of a slice is the number of elements it contains.
@@ -312,7 +312,7 @@ s = s[:4] // len = 4, cap = 6
 s = s[2:] // len = 2, cap = 4
 ```
 
-##### *[Creating a slice with make](https://tour.golang.org/moretypes/13)*
+#### *[Creating a slice with make](https://tour.golang.org/moretypes/13)*
 
 Slices can be created with the built-in `make` function; this is how you create dynamically-sized arrays.
 
@@ -325,14 +325,14 @@ To specify a capacity, pass a third argument to make:
 b := make([]int, 0, 5) // len = 0, cap = 5
 ```
 
-##### *[Appending to a slice](https://tour.golang.org/moretypes/15)*
+#### *[Appending to a slice](https://tour.golang.org/moretypes/15)*
 
 `append` appends to a slice, allocating a new if necessary.
 ```go
 s = append(s, 2, 3, 4)
 ```
 
-##### *[Range - loop over a slice](https://tour.golang.org/moretypes/16)*
+#### *[Range - loop over a slice](https://tour.golang.org/moretypes/16)*
 
 The `range` form of the `for` loop iterates over a `slice` or `map`.
 Two values are returned for each iteration - the index, and a *copy* of the element.
@@ -422,7 +422,7 @@ func main() {
 }
 ```
 
-#### Hardware
+### Hardware
 
 [Go hardware](https://github.com/rakyll/go-hardware)
 
