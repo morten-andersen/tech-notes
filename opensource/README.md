@@ -7,10 +7,19 @@ Below is a list of the projects I have donated to over the years.
 #### 2021
 
 * [Copenhagen Suborbitals](https://copenhagensuborbitals.com) the worlds only manned amateur space program. I have been supporting this every month since 2011
+* [EFF - Electronic Frontier Foundation](https://www.eff.org/) - for defending digital privacy, free speech, and innovation on the Internet
+* [Ubuntu MATE](https://ubuntu-mate.org/) lightweight Ubuntu version using the MATE desktop manager
+* [Mozilla Foundation](https://www.mozilla.org) - the foundation behind Firefox, Thunderbird, Seamonkey, the Mozilla suite
+* [LibreOffice](https://www.libreoffice.org/) free and open source office suite
+* [Wikipedia](https://www.wikipedia.org/)
+* [KeePassXC](https://keepassxc.org/) cross platform password manager
+* [Tor Project](https://www.torproject.org/) for an uncensored and private web
+* [SDKMAN!](https://sdkman.io/) the Software Development Kit Manager for installing Java related software
+* [Open Collective](https://opencollective.com/morten-andersen) contributions via Open Collective
 
 #### 2017
 
-* [EFF - Electronic Frontier Foundation](https://www.eff.org/) - for defending digital privacy, free speech, and innovation on the Internet
+* [EFF - Electronic Frontier Foundation](https://www.eff.org/)
 * [Zeroshell Linux Router](https://zeroshell.org/) which I ran on my personal router and wifi access point on a PC Engines [Alix board](https://www.pcengines.ch/alix.htm).
 
 #### 2016
@@ -19,11 +28,11 @@ Below is a list of the projects I have donated to over the years.
 * [Enigmail](https://www.enigmail.net/) - OpenPGP plugin for Mozilla Seamonkey and Thunderbird
 * [GnuPG](https://gnupg.org/) - open and free implementation of the OpenPGP standard for encrypted communication
 * [KeePassX](https://www.keepassx.org/) cross platform password manager
-* [LibreOffice](https://www.libreoffice.org/) free and open source office suite
-* [Mozilla Foundation](https://www.mozilla.org) - the foundation behind Firefox, Thunderbird, Seamonkey, the Mozilla suite
+* [LibreOffice](https://www.libreoffice.org/)
+* [Mozilla Foundation](https://www.mozilla.org)
 * [NoScript](https://noscript.net/) security plugin for Mozilla based browsers
 * [OpenSSL](https://www.openssl.org/) the standard free and open source TLS and SSL implementation
-* [Tor Project](https://www.torproject.org/) for an uncensored and private web
+* [Tor Project](https://www.torproject.org/)
 * [Ubuntu](https://ubuntu.com/) which I have used as my working and personal operating system since Ubuntu Desktop 8.04
 * [Wikipedia](https://www.wikipedia.org/)
 * [Zeroshell Linux Router](https://zeroshell.org/)
