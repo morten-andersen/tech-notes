@@ -19,6 +19,10 @@ Notes on programming languages, network, systems, calendars, etc.
 
 * [**Time Related Notes**](./time) - links to various information about high resolution time as well as to more general information about calendars.
 
+### Text, Encoding, Unicode, Emoji's
+
+* [**Text Encoding Notes**](./tools/text.md) - information about text encodings, unicode, emoji's, etc.
+
 ### Technical notes
 
 * [**Technical notes**](./technical) - for various technical areas.

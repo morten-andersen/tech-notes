@@ -17,7 +17,3 @@ Online tools for testing **web pages**. Primarily for load speed
 #### SEO
 
 * [Google Search Console](https://search.google.com/search-console) for monitoring a sites presence in Google search
-
-#### Emoji's
-
-* [Emojipedia](https://emojipedia.org/) for looking up how emoji's looks on different platforms
