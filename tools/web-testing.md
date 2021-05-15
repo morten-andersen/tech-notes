@@ -17,3 +17,8 @@ Online tools for testing **web pages**. Primarily for load speed
 #### SEO
 
 * [Google Search Console](https://search.google.com/search-console) for monitoring a sites presence in Google search
+
+#### Browser Testing
+
+* [EFF Cover Your Tracks](https://coveryourtracks.eff.org/) test how trackers view your browser
+* [Track This by Mozilla](https://trackthis.link/)
