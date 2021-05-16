@@ -18,7 +18,7 @@ The toit SDK installation is placed in `~/.cache/toit`
 
 #### [Functions](https://docs.toit.io/language/language/#defining-a-function)
 
-```toit
+```
 // simple function definition with 2 arguments, argumment 2 has a default value
 some_fct argument1 argument2="default value":
   print "arguments: '$argument1' '$argument2'"
