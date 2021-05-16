@@ -3,7 +3,8 @@
 * [Java](./java)
 * [JavaScript, TypeScript and Node.js](./javascript)
 * [R Statistical Language](./rscript), which I used in my Master Thesis for generating a large number of graphs programmatically
-* [Go - notes](./go)
+* [Go notes](./go)
+* [Toit notes](./toit)
 
 ### Development Tools
 
