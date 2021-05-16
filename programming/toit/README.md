@@ -95,12 +95,14 @@ Two different modes:
 ### Simulator Device
 
 ```bash
-toit simulator start --alias TestDevice # start a simulator device named 'TestDevice'
-toit run -d TestDevice hello.toit # run the hello program once
-toit deploy -d TestDevice hello.yaml # deploy the hello app to the device
-toit device -d TestDevice ps # list apps on the device
-toit device -d TestDevice logs -f 10m # attach to the logs from 10 minutes ago and tail
-toit simulator stop TestDevice # stop the device
+toit simulator start --alias TestDevice  # start a simulator device named 'TestDevice'
+
+toit run -d TestDevice hello.toit        # run the hello program once
+toit deploy -d TestDevice hello.yaml     # deploy the hello app to the device
+
+toit device -d TestDevice ps             # list apps on the device
+toit device -d TestDevice logs -f 10m    # attach to the logs from 10 minutes ago and tail
+toit simulator stop TestDevice           # stop the device
 ```
 
 ### [Pubsub Communication](https://docs.toit.io/apis/pubsub/)
@@ -109,5 +111,5 @@ Asynchronous message communication between apps.
 
 **topic** is a named resource which is used when messages are published.
 
-* *Device topic*: A topic that enables [intra-communication]((https://docs.toit.io/tutorials/pubsub/pubsubint/) on a device. These topics are prefixed with: `device:``
-* *Cloud topic*: A topic that enables inter-communication between devices and external systems. These topics are prefixed with: `cloud:``
+* *Device topic*: A topic that enables [intra-communication]((https://docs.toit.io/tutorials/pubsub/pubsubint/) on a device. These topics are prefixed with: `device:`
+* *Cloud topic*: A topic that enables inter-communication between devices and external systems. These topics are prefixed with: `cloud:`
