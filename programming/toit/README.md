@@ -229,7 +229,7 @@ As blocks are *stack*-allocated there are some [restrictions on blocks](https://
 
 Toit uses *Cooperative scheduling* where all *tasks*/*fibers* runs on the same heap an only switch task on *yield points*.
 
-A task is started with `task::` syntax
+A task is started with `task::` syntax (double `:`)
 
 ```python
 import gpio
