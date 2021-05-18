@@ -18,7 +18,7 @@ The toit SDK installation is placed in `~/.cache/toit`
 
 #### [Functions](https://docs.toit.io/language/language/#defining-a-function)
 
-```
+```python
 // simple function definition with 2 arguments, argumment 2 has a default value
 some_fct argument1 argument2="default value":
   print "arguments: '$argument1' '$argument2'"
@@ -31,7 +31,7 @@ main:
 
 #### [Classes](https://docs.toit.io/language/language/#evolving-into-a-greeter)
 
-```toit
+```python
 // simple *class* definition
 class SimpleAdder:
   addend1_ := null // private by convention as ending in '_'
@@ -55,7 +55,7 @@ main:
 
 #### [Named Arguments](https://docs.toit.io/language/language/#named-arguments)
 
-```toit
+```python
 // function with named argument
 say_hi name --greeting="Hello ":
   // Greet everyone individually!
