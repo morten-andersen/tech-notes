@@ -3,6 +3,7 @@
 * [Documentation](https://docs.toit.io/)
 * [Toit Language](https://docs.toit.io/language/language/)
 * [SDK Reference](https://libs.toit.io/)
+  * The [`core`](https://libs.toit.io/core/library-summary) module is automatically imported into every file. It contains common classes, like `int`, `string` and `List`
 * [Github Repositories](https://github.com/toitware)
 
 ### CLI
@@ -11,10 +12,87 @@
 * `toit doctor` - health check of local system
   * `toit doctor fix` - install or update the SDK
   * `toit doctor -i` - show version information
+* `toit exec <file>` - execute the program without a device
 
 The toit SDK installation is placed in `~/.cache/toit`
 
 ### [Toit Language](https://docs.toit.io/language/language/)
+
+[**Language comparison**](https://docs.toit.io/language/toitversus/) for Toit vs. Java, etc.
+
+#### [Toit Terms](https://docs.toit.io/language/definitions/#terms)
+
+**Variables**
+
+* **locals** - a variable declared within a function or passed to a function
+* **globals** - a variable declared outside the scope of a class or function
+* **constants** - special case of globals defined by a `::=` assignment. By convention constants should have an ALL_CAPS_NAME
+
+**Classes**
+
+* **Constructor**
+* **Named Constructor**
+* **Factory** - a named constructor with a return
+* **Static functions and fields** - marked with the keyword `static`
+* **Methods and instance fields**
+
+#### [Toit Types](https://docs.toit.io/language/definitions/#type)
+
+Types are optional.
+A variable is typed if followed by a `/type-name`.
+By default types are non-nullable, which means null is not a valid value.
+
+```python
+class Coordinate:
+  // An instance field that must be initialized by
+  // constructors.
+  // By writing `:= ?` we indicate that all constructors
+  // must initialize the field.
+  x /int := ?
+  y /int := ?
+
+  // We don't need to specify the type for constructor
+  // arguments that are written directly to a typed field.
+  constructor .x .y:
+
+main:
+  a := Coordinate 0 0
+
+  // Error! The types of the fields (and therefore the
+  // constructor arguments) are non-nullable, so null is not
+  // a valid argument here:
+  b := Coordinate null null  // Error!
+```
+
+Nullable types are defined using a `?` after the type name.
+
+```python
+class Foo:
+  bar /Bar? := null
+```
+
+##### `any`/`none` - Two special types exists:
+
+* [`any`](https://docs.toit.io/language/definitions/#any) - any value is accepted
+* `none` - no value is accepted
+
+##### [Return types](https://docs.toit.io/language/definitions/#return-types)
+
+The return type is defined with `-> type`
+
+```python
+// A function that doesn't return anything.
+foo -> none:
+  print "not returning anything"
+
+// A function that takes an int and returns an int.
+bar x/int -> int:
+  return x + 1
+```
+
+#### [Operator Precendence](https://docs.toit.io/language/syntax/#precedence)
+
+See definition of operators on the classes for [int](https://libs.toit.io/core/numbers/class-int), [float](https://libs.toit.io/core/numbers/class-float) and [num](https://libs.toit.io/core/numbers/class-num)
 
 #### [Functions](https://docs.toit.io/language/language/#defining-a-function)
 
@@ -37,7 +115,7 @@ class SimpleAdder:
   addend1_ := null // private by convention as ending in '_'
   addend2_ := null // private by convention as ending in '_'
 
-  // the constructor assigning addend1 and addend2
+  // the constructor assigning addend1 and addend2, defaults to 0
   constructor .addend1_=0 .addend2_=0:
 
   sum:
@@ -53,6 +131,8 @@ main:
   print "the second sum is $simple_adder_noop.sum"
 ```
 
+Toit also supports [`interfaces` and `abstract classes`](https://docs.toit.io/language/objects-constructors-inheritance-interfaces/)
+
 #### [Named Arguments](https://docs.toit.io/language/language/#named-arguments)
 
 ```python
@@ -65,6 +145,60 @@ main:
   // calling a function with a named argument
   say_hi "Peter"
   say_hi "Berit" --greeting="Hi"
+```
+
+#### [Loops](https://docs.toit.io/language/language/#loops) and [if..else](https://docs.toit.io/language/language/#if-statements-and-basic-expressions)
+
+```python
+// loop using number.`repeat`
+print_n_numbers n:
+  // using repeat on number
+  n.repeat: print it // `it` is an *automatic* variable that gives the iteration count
+
+  // traditional for loop
+  for i := 0; i < n; i++: print i
+
+  // traditional while
+  i := 0
+  while i < n: print i++
+
+
+// define a list and loop over it, using the `do` method available on all collections
+print_list:
+  list := [ "Horse", "Fish", "Radish", "Baboon" ]
+  list.do: print it // `it` is an *automatic* variable that gives the element
+  print (list.join ",")
+
+
+// if..else
+print_even_or_odd n:
+  if n % 2 == 0: print "$n is even"
+  else: print "$n is odd"
+```
+
+#### [Maps and Sets](https://docs.toit.io/language/language/#maps-and-sets)
+
+```python
+list_of_something := []   // empty list
+map_of_x_to_y     := {:}  // empty map
+set_of_something  := {}   // empty set
+```
+
+#### [Blocks](https://docs.toit.io/language/language/#blocks)
+
+`do` and `repeat` looks like they are built in to the language like `if` and `for`, but they are normal methods on the `List` and `Integer` classes
+
+```python
+class List:
+  // ...
+  do [block]:
+    size.repeat: block.call this[it]
+
+class Integer:
+  // ...
+  repeat [block]:
+    for i := 0; i < this; i++:
+      block.call i
 ```
 
 ### Hardware - ESP32
