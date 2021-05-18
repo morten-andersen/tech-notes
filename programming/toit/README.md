@@ -18,7 +18,7 @@ The toit SDK installation is placed in `~/.cache/toit`
 
 ### [Toit Language](https://docs.toit.io/language/language/)
 
-[**Language comparison**](https://docs.toit.io/language/toitversus/) for Toit vs. Java, etc.
+* [**Language comparison**](https://docs.toit.io/language/toitversus/) for Toit vs. Java, etc.
 
 #### [Toit Terms](https://docs.toit.io/language/definitions/#terms)
 
@@ -132,6 +132,8 @@ main:
 ```
 
 Toit also supports [`interfaces` and `abstract classes`](https://docs.toit.io/language/objects-constructors-inheritance-interfaces/)
+
+The [Advanced Constructor Topics](https://docs.toit.io/language/objects-constructors-inheritance-interfaces/#advanced-constructor-topics) details how an object is constructed and how the sequence is split into an *initialization* and an *instance* part.
 
 #### [Named Arguments](https://docs.toit.io/language/language/#named-arguments)
 
