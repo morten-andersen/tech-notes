@@ -8,7 +8,7 @@
 
 ### Development Tools
 
-* [SDKMAN](./sdkman)
+* [SDKMAN](./sdkman) for managing JVM's and Java related tools (Maven, Ant, Gradle, Micronaut, etc.)
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
