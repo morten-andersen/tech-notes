@@ -36,6 +36,13 @@ The toit SDK installation is placed in `~/.cache/toit`
 * **Static functions and fields** - marked with the keyword `static`
 * **Methods and instance fields**
 
+**Basic Types**
+
+* [**Numbers**](https://docs.toit.io/language/math/)
+* [**String**](https://docs.toit.io/language/strings/)
+* [**Boolean**](https://docs.toit.io/language/booleans/)
+* [**Common conversions**](https://docs.toit.io/language/typeconversion/) list conversions from numbers to strings, etc.
+
 #### [Toit Types](https://docs.toit.io/language/definitions/#type)
 
 Types are optional.
@@ -186,6 +193,19 @@ map_of_x_to_y     := {:}  // empty map
 set_of_something  := {}   // empty set
 ```
 
+Iterating a map iterates the key value pairs - see [block arguments](https://docs.toit.io/language/blocks/#block-arguments)
+
+```python
+main:
+  map ::= {
+    1234: "Siri",
+    2345: "John",
+    3456: "Sue"
+    }
+  map.do: | id name |
+    print "$name has ID $id"
+```
+
 #### [Blocks](https://docs.toit.io/language/language/#blocks)
 
 `do` and `repeat` looks like they are built in to the language like `if` and `for`, but they are normal methods on the `List` and `Integer` classes
@@ -201,6 +221,67 @@ class Integer:
   repeat [block]:
     for i := 0; i < this; i++:
       block.call i
+```
+
+As blocks are *stack*-allocated there are some [restrictions on blocks](https://docs.toit.io/language/blocks/#restrictions).
+
+#### Concurrency - [tasks](https://docs.toit.io/language/tasks/)
+
+Toit uses *Cooperative scheduling* where all *tasks*/*fibers* runs on the same heap an only switch task on *yield points*.
+
+A task is started with `task::` syntax
+
+```python
+import gpio
+
+// The red LED is connected to pin 17.
+LED1 ::= gpio.Pin.out 17
+// The green LED is connected to pin 18.
+LED2 ::= gpio.Pin.out 18
+
+main:
+  // Note the double `::` on the next two lines.
+  // Start a task that runs the my_task_1 function.
+  task:: my_task_1
+  // Start a second task that runs my_task_2.
+  task:: my_task_2
+
+my_task_1:
+  while true:
+    sleep --ms=500
+    LED1.set 1
+    sleep --ms=500
+    LED1.set 0
+
+my_task_2:
+  while true:
+    sleep --ms=123
+    LED2.set 1
+    sleep --ms=123
+    LED2.set 0
+```
+
+**Synchronization Methods**
+
+[Synchronization](https://docs.toit.io/language/tasks/#synchronizing-between-tasks-with-monitors) between tasks is possible using the [`monitor` library](https://libs.toit.io/monitor/library-summary)
+
+* **latch**
+* **channel**
+* **semaphore**
+* **mutex**
+* **mailbox**
+
+#### [Exception Handling](https://docs.toit.io/language/exceptions/)
+
+* `try .. finally`
+* `catch` - implemented as a function that takes the possibly throwing code as a block.
+
+```python
+my_function:
+  my_exception := catch --trace:
+    code_that_might_throw 42 103
+  if my_exception:
+    code_to_run_when_an_exception_was_thrown "foo" "bar"
 ```
 
 ### Hardware - ESP32
