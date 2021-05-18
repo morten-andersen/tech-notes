@@ -4,6 +4,7 @@
 * [Toit Language](https://docs.toit.io/language/language/)
 * [SDK Reference](https://libs.toit.io/)
   * The [`core`](https://libs.toit.io/core/library-summary) module is automatically imported into every file. It contains common classes, like `int`, `string` and `List`
+* [The Toit Console](https://console.toit.io/)
 * [Github Repositories](https://github.com/toitware)
 
 ### CLI
