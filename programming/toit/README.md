@@ -228,7 +228,7 @@ As blocks are *stack*-allocated there are some [restrictions on blocks](https://
 
 #### Concurrency - [tasks](https://docs.toit.io/language/tasks/)
 
-Toit uses *Cooperative scheduling* where all *tasks*/*fibers* runs on the same heap an only switch task on *yield points*.
+Toit uses *Cooperative scheduling* where all *tasks* / *fibers* runs on the same heap and only switch task on *yield points*.
 
 A task is started with `task::` syntax (double `:`)
 
