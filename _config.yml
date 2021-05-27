@@ -3,7 +3,7 @@ defaults:
   - scope:
       path: ""
     values:
-      title: "⚙️ Morten Andersen ⚙️ Tech Notes & Mindmaps"
+      title: "⚙️ Morten Andersen ⚙️ Tech Notes & Mindmaps ⚙️"
       image:
         path: /assets/tech.jpg
         height: 640
