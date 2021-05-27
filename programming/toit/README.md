@@ -330,4 +330,4 @@ Asynchronous message communication between apps.
 **topic** is a named resource which is used when messages are published.
 
 * *Device topic*: A topic that enables [intra-communication](https://docs.toit.io/tutorials/pubsub/pubsubint/) on a device. These topics are prefixed with: `device:`
-* *Cloud topic*: A topic that enables inter-communication between devices and external systems. These topics are prefixed with: `cloud:`
+* *Cloud topic*: A topic that enables [inter-communication](https://docs.toit.io/tutorials/pubsub/pubsubext/) between devices and external systems. These topics are prefixed with: `cloud:`
