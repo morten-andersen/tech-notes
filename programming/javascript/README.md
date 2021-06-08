@@ -17,6 +17,8 @@
 #### Resources
 
 * [.jsPoint](https://medium.com/jspoint) resources by Uday Hiwarale on JavaScript, TypeScript, Node, etc.
+* [Exploring JS: JavaScript books for programmers](https://exploringjs.com/) several books by Axel Rauschmayer
+  * [Exploring ES6 -> Metaprogramming with Proxies](https://exploringjs.com/es6/ch_proxies.html)
 * [The Modern JavaScript Tutorial](https://javascript.info/)
 * Modules
   * [MDN -> Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
