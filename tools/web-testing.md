@@ -17,6 +17,7 @@ Online tools for testing **web pages**. Primarily for load speed
 #### SEO
 
 * [Google Search Console](https://search.google.com/search-console) for monitoring a sites presence in Google search
+* [ToS;DR - Terms of Service; Didn't Read](https://tosdr.org/) for looking up a readable summary of the ToS for popular websites
 
 #### Browser Testing
 

@@ -23,6 +23,7 @@ Notes on programming languages, network, systems, calendars, etc.
 ### Text, Encoding, Unicode, Emoji's
 
 * [**Text Encoding Notes**](./tools/text.md) - information about text encodings, unicode, emoji's, etc.
+* [**Dictionaries**](./tools/dictionaries.md) - online dictionaries and translators
 
 ### Technical notes
 

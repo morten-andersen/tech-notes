@@ -1,6 +1,7 @@
 ### Text, Encoding, Unicode, Emoji's
 
 #### Unicode, Encodings, UTF-8
+
 * [Joel on Software -> Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - the fast introduction to character encodings and Unicode
 * [Unicode - Code Charts](https://www.unicode.org/charts/)
 * [Unicode - Character Search](https://unicode-search.net/)
