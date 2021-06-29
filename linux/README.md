@@ -10,6 +10,10 @@ Network command line tools. DNS and ip tools.
 
 [curl](./curl.md) for url requests
 
+#### [Tools](./tools.md)
+
+Encoding / decoding base64
+
 #### [Linux Services](./services.md)
 
 Tools for managing Linux services.
