@@ -13,5 +13,5 @@ Encoding / decoding strings
 
 ```bash
 echo 'some-string' | base64 # encode a string
-echo 'base64-string' | base64 -d # decode a file
+echo 'base64-string' | base64 -d # decode a string
 ```
