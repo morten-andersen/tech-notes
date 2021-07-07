@@ -14,6 +14,11 @@
 
 * git diff unpushed changes: `git diff origin/<branch>`
 
+#### undo last local commit
+
+* *soft* - keeping local changes: `git reset --soft HEAD~1`
+* *hard* - discard local changes: `git reset --hard HEAD~1`
+
 #### revert a single commit
 
 * `git revert <sha>`
