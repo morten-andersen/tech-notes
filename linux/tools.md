@@ -15,3 +15,7 @@ Encoding / decoding strings
 echo 'some-string' | base64 # encode a string
 echo 'base64-string' | base64 -d # decode a string
 ```
+
+#### Substrings in Bash
+
+[Extracting a Substring in Bash](https://www.baeldung.com/linux/bash-substring) describes both index-based and pattern-based substring extractions.

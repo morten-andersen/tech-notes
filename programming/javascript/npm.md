@@ -7,6 +7,10 @@ Javascript package manager. The default package manager for node.js.
 * `npm list -g --depth=0` - list globally installed packages
 * `npm install npm@latest -g` - upgrade npm to the latest version
 
+#### Configuration
+
+* `npm config ls -l | grep shell` - show what shell is used for running scripts
+
 #### [ncu](https://www.npmjs.com/package/npm-check-updates) - npm-check-updates
 
 npm tool for checking and performing dependency upgrades
