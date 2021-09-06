@@ -24,7 +24,7 @@ IntelliJ IDEA
 
 * [Basic Language](./basics/basics.md)
 * [Kotlin CLI](./cli/cli.md)
-* [Scripting in Kotlin](./scripting/scripting.md)
+* [Scripting in Kotlin](./scripts/scripting.md)
 
 ### Books
 
