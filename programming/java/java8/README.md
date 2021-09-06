@@ -18,8 +18,7 @@
 
 #### Lambda Expressions and the stream API [[JEP 126](https://openjdk.java.net/jeps/126)]
 
-* `java.util.Optional`
-* `java.stream.*`
+* [Lambda Details](./lambda/lambda)
 
 #### Date & Time API - [`java.time`](https://docs.oracle.com/javase/8/docs/api/index.html?java/time/package-summary.html) [[JEP 150](https://openjdk.java.net/jeps/150)]
 
