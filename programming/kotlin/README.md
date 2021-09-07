@@ -1,7 +1,7 @@
 ### Kotlin
 
-* [Kotlin docs﻿](https://kotlinlang.org/docs/home.html)
-* [Learning materials overview﻿](https://kotlinlang.org/docs/learning-materials-overview.html)
+* 🔗 [Kotlin docs﻿](https://kotlinlang.org/docs/home.html)
+* 🔗 [Learning materials overview﻿](https://kotlinlang.org/docs/learning-materials-overview.html)
 
 #### Install on Ubuntu
 
@@ -17,8 +17,8 @@ IntelliJ IDEA
 
 ### Documentation
 
-* [Kotlin Standard Library](https://kotlinlang.org/api/latest/jvm/stdlib/)
-* [Get started with Kotlin/JVM﻿](https://kotlinlang.org/docs/jvm-get-started.html)
+* 🔗 [Kotlin Standard Library](https://kotlinlang.org/api/latest/jvm/stdlib/)
+* 🔗 [Get started with Kotlin/JVM﻿](https://kotlinlang.org/docs/jvm-get-started.html)
 
 ### Language
 
@@ -28,4 +28,4 @@ IntelliJ IDEA
 
 ### Books
 
-* [PragProg - Programming Kotlin](https://pragprog.com/titles/vskotlin/programming-kotlin/)
+* 🔗 [PragProg - Programming Kotlin](https://pragprog.com/titles/vskotlin/programming-kotlin/)

@@ -26,3 +26,4 @@ In the REPL an external file can be loaded using `:load <filename>`
 main(arrayOf("elem1", "elem2")) // res1: kotlin.Int = 2
 println("length of array is ${main(arrayOf("elem1", "elem2"))}")
 ```
+([TestLoad.kt](./TestLoad.kt))
