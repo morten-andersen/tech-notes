@@ -34,3 +34,11 @@ val withoutMargin1 = """ABC
                         |456""".trimMargin()
 println(withoutMargin1) // ABC\n123\n456
 ```
+
+#### Functions
+
+```kotlin
+fun sum(a: Int, b: Int) = a + b // one line function
+
+fun noReturn(arg: String) = println(arg) // returns `Unit`
+```
