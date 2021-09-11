@@ -22,7 +22,7 @@ When the compiler is called without any arguments it opens the REPL.
 
 In the REPL an external file can be loaded using `:load <filename>`
 ```kotlin
-:load​​ TestLoad.kt​
+:load TestLoad.kt
 main(arrayOf("elem1", "elem2")) // res1: kotlin.Int = 2
 println("length of array is ${main(arrayOf("elem1", "elem2"))}")
 ```
