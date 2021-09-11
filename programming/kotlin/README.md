@@ -23,7 +23,8 @@ IntelliJ IDEA
 
 ### Language
 
-* [Basic Language](./basics/basics.md)
+* [Basic Syntax](./basics/basics.md)
+* [Collections](./basics/collections.md)
 * [Kotlin CLI](./cli/cli.md)
 * [Scripting in Kotlin](./scripts/scripting.md)
 

@@ -115,7 +115,7 @@ for (ix in integerArray.indices) println("elem at [$ix] is ${integerArray[ix]}")
 for ((ix, elem) in integerArray.withIndex()) println("elem at [$ix] is $elem")
 ```
 
-#### `when` instaed of `switch`
+#### `when` instead of `switch`
 
 The syntax for [`when`](https://kotlinlang.org/docs/control-flow.html#when-expression) is examplified in the below function
 
