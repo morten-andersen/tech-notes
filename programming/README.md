@@ -7,6 +7,10 @@
 * [Go notes](./go)
 * [Toit notes](./toit) a language and platform for IoT
 
+### Code Conventions
+
+* 🔗 [Google Code Conventions](https://google.github.io/styleguide/) for a number of languages.
+
 ### Development Tools
 
 * [SDKMAN](./sdkman) for managing JVM's and Java related tools (Maven, Ant, Gradle, Micronaut, etc.)

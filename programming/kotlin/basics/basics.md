@@ -42,3 +42,30 @@ fun sum(a: Int, b: Int) = a + b // one line function
 
 fun noReturn(arg: String) = println(arg) // returns `Unit`
 ```
+
+Arguments to functions are `val` by design. The can not be reassigned within the function.
+
+For one line functions the function return type does not need to be specified.
+
+**Default and named arguments**
+
+```kotlin
+fun greet(name: String, msg: String = "Hello"): String = "$msg $name"​ // default arguments
+
+// calling using named arguments
+greet(name = "Alice", msg = "Hi")
+```
+
+**Varargs and spread operator**
+
+```kotlin
+fun greet(msg: String, vararg names: String): String = "$msg ${names.joinToString(",")}"​ // names will be an array
+
+greet("Hi", "Alice", "Bob")
+
+// calling with an array using the spread operator
+greet("Hi", *arrayOf("Alice", "Bob"))
+
+// if a list instead of an array, it must be converted before being spread
+greet("Hi", *listOf("Alice", "Bob").toTypedArray())
+```
