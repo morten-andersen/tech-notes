@@ -1,6 +1,6 @@
 ### Collections
 
-Kotlin overs view interfaces over the standard Java collections in the 🔗 [`kotlin.collections`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/) package
+Kotlin offers view interfaces over the standard Java collections in the 🔗 [`kotlin.collections`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/) package
 
 * `Pair` - an immutable tuple of two values
 * `Triple` - an immutable tuple of three values
