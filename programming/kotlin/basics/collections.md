@@ -42,7 +42,7 @@ println(strList.javaClass) // class java.util.Arrays$ArrayList
 
 As seen the [`kotlin.collections.List`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/) is a *compile-time view* around the immutable `java.util.Arrays#ArrayList`
 
-Since it is immutable the []`plus/+`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/plus.html) and [`minus/-`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/minus.html) operations should be used to return a copy of the list.
+Since it is immutable the [`plus/+`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/plus.html) and [`minus/-`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/minus.html) operations should be used to return a **copy** of the list.
 
 ```kotlin
 val list = listOf("Alice", "Bob")
@@ -58,7 +58,7 @@ If a specific `Set` type is needed use one of the following
 
 * 🔗 [`hashSetOf()`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/hash-set-of.html) to get a [`kotling.collections.HashSet`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-hash-set/) (view around `java.util.HashSet`)
 * 🔗 [`linkedSetOf()`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/linked-set-of.html) to get a [`kotling.collections.LinkedHashSet`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-linked-hash-set/) (view around `java.util.LinkedHashSet`)
-* 🔗 [`sortedSetOf()`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/sorted-set-of.html) to get a `java.util.TreeSet`)
+* 🔗 [`sortedSetOf()`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/sorted-set-of.html) to get a `java.util.TreeSet`
 
 #### Map
 
@@ -68,7 +68,7 @@ If a specific `Map` type is needed use one of the following
 
 * 🔗 [`hashMapOf()`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/hash-map-of.html) to get a [`kotling.collections.HashMap`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-hash-map/) (view around `java.util.HashMap`)
 * 🔗 [`linkedMapOf()`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/linked-map-of.html) to get a [`kotling.collections.LinkedHashMap`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-linked-hash-map/) (view around `java.util.LinkedHashMap`)
-* 🔗 [`sortedMapOf()`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/sorted-map-of.html) to get a `java.util.SortedMap`)
+* 🔗 [`sortedMapOf()`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/sorted-map-of.html) to get a `java.util.SortedMap`
 
 ```kotlin
 val map = mapOf("Alice" to "Bob", "Eve" to "Boris") // varargs of Pairs
@@ -82,7 +82,7 @@ val alicesPartner: String = map.get("Alice") // error: type mismatch: inferred t
 val alicesPartner = map["Alice"] // type is `String?`
 ```
 
-Operations to get a copy of an immutable map with elements added/removed
+Operations to get a **copy** of an immutable map with elements added/removed
 
 ```kotlin
 val copy1 = map + ("Doris" to "Hans") // {Alice=Bob, Eve=Boris, Doris=Hans}
