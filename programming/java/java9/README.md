@@ -12,20 +12,20 @@
 
 * Java 9 Modularity book
 
-#### `jlink` [🔗 [JEP 282](https://openjdk.java.net/jeps/282)]
+#### `jlink` [[JEP 282](https://openjdk.java.net/jeps/282)]
 
 Assembles and optimizes a set of modules and their dependencies into a custom runtime image
 
-#### Ahead of time compilation - `jaotc` - [🔗 [JEP 295](https://openjdk.java.net/jeps/295)]
+#### Ahead of time compilation - `jaotc` - [[JEP 295](https://openjdk.java.net/jeps/295)]
 
 * based on the `graal` compiler
 
-#### REPL - `jshell` [🔗 [JEP 222](https://openjdk.java.net/jeps/222)]
+#### REPL - `jshell` [[JEP 222](https://openjdk.java.net/jeps/222)]
 
 * 🔗 [javaspecialists newsletter 250 - Learning Java with jshell](https://www.javaspecialists.eu/archive/Issue250.html)
 * `jshell < echoserver.jsh` ([echoserver.jsh](./echoserver.jsh))- demo which starts an echo telnet server. After being started it can be tested by `telnet 8080` where it will echo any character back.
 
-#### Concurrency updates - support for reactive streams [🔗 [JEP 266](https://openjdk.java.net/jeps/266)]
+#### Concurrency updates - support for reactive streams [[JEP 266](https://openjdk.java.net/jeps/266)]
 
 * 🔗 [Reactive Streams](https://www.reactive-streams.org/)
 
@@ -33,15 +33,15 @@ Assembles and optimizes a set of modules and their dependencies into a custom ru
 
 * `InputStream.transferTo(OutputStream)` - transfer everything directly from an `InputStream` to an `OutputStream`.
 
-#### XML Catalog [🔗 [JEP 268](https://openjdk.java.net/jeps/268)]
+#### XML Catalog [[JEP 268](https://openjdk.java.net/jeps/268)]
 
 * TODO
 
-#### Compact strings [🔗 [JEP 254](https://openjdk.java.net/jeps/254)]
+#### Compact strings [[JEP 254](https://openjdk.java.net/jeps/254)]
 
 * TODO
 
-#### Milling project coin [🔗 [JEP 213](https://openjdk.java.net/jeps/213)]
+#### Milling project coin [[JEP 213](https://openjdk.java.net/jeps/213)]
 
 * Support for private methods in interfaces
 

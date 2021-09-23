@@ -8,12 +8,12 @@
 * `sdk install java 11.0.6.hs-adpt` - install
 * `sdk use java 11.0.6.hs-adpt` - use in current shell
 
-#### HTTP client [🔗 [JEP 321](https://openjdk.java.net/jeps/321)]
+#### HTTP client [[JEP 321](https://openjdk.java.net/jeps/321)]
 
 * HTTP Client
   * asynchronous and synchronous mode. HTTP 2.
 
-#### TLS 1.3 [🔗 [JEP 332](https://openjdk.java.net/jeps/332)]
+#### TLS 1.3 [[JEP 332](https://openjdk.java.net/jeps/332)]
 
 * TLS 1.3 full support
 
@@ -26,7 +26,7 @@ java.lang.Thread.destroy()
 java.lang.Thread.stop(java.lang.Throwable)
 ```
 
-#### EE and Corba modules removed [🔗 [JEP 320](http://openjdk.java.net/jeps/320)]
+#### EE and Corba modules removed [[JEP 320](http://openjdk.java.net/jeps/320)]
 
 **Removed packages**
 
@@ -34,7 +34,7 @@ java.lang.Thread.stop(java.lang.Throwable)
 * `java.xml.bind` - JAXB
 * `java.corba` - Corba
 
-#### Java Flight recorder (`jfr`) [🔗 [JEP 328](https://openjdk.java.net/jeps/328)] and Java Mission Control (`jmc`)
+#### Java Flight recorder (`jfr`) [[JEP 328](https://openjdk.java.net/jeps/328)] and Java Mission Control (`jmc`)
 
 🔗 [Java Flight Recorder](https://wiki.openjdk.java.net/display/jmc/Overview) is a production time profiling and diagnostics engine built into the JVM.
 
@@ -48,7 +48,7 @@ HotSpot Virtual Machine Garbage Collection Tuning Guide, release 11 [pdf](./docs
 
 🔗 [Java Magazine -> Understanding Garbage Collectors](https://blogs.oracle.com/javamagazine/understanding-garbage-collectors)
 
-##### Z Garbage Collector (ZGC) [🔗 [JEP 333](http://openjdk.java.net/jeps/333)]
+##### Z Garbage Collector (ZGC) [[JEP 333](http://openjdk.java.net/jeps/333)]
 
 🔗 [The Z Garbage Collector](https://wiki.openjdk.java.net/display/zgc) - experimental in java 11.
 
@@ -58,7 +58,7 @@ Explained at 🔗 [Java Magazine -> Understanding the JDK’s New Superfast Garb
 
 Enable with `-XX:+UnlockExperimentalVMOptions -XX:+UseZGC`
 
-##### Epsilon no-op Garbage Collector [🔗 [JEP 318](https://openjdk.java.net/jeps/318)]
+##### Epsilon no-op Garbage Collector [[JEP 318](https://openjdk.java.net/jeps/318)]
 
 Explained at 🔗 [Java Magazine -> Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 

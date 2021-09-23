@@ -12,7 +12,7 @@
 
 HotSpot Virtual Machine Garbage Collection Tuning Guide, release 12 [pdf](./docs/hotspot-virtual-machine-garbage-collection-tuning-guide-v12.pdf) (🔗 [original link](https://docs.oracle.com/en/java/javase/12/gctuning/))
 
-##### Shenandoah [🔗 [JEP 189](https://openjdk.java.net/jeps/189)]
+##### Shenandoah [[JEP 189](https://openjdk.java.net/jeps/189)]
 
 🔗 [Shenandoah Garbage Collector](https://wiki.openjdk.java.net/display/shenandoah) - experimental in java 12.
 

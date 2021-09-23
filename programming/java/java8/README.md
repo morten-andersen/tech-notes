@@ -8,7 +8,7 @@
 * `sdk install java 8.0.242.hs-adpt` - install
 * `sdk use java 8.0.242.hs-adpt` - use in current shell
 
-#### Compact Profiles [🔗 [JEP 161](https://openjdk.java.net/jeps/161)]
+#### Compact Profiles [[JEP 161](https://openjdk.java.net/jeps/161)]
 
 * EJDK - Embedded JDK
   * 🔗 [Introducing the EJDK](https://blogs.oracle.com/jtc/introducing-the-ejdk)
@@ -16,11 +16,11 @@
   * `jrecreate` - can create different JVM profiles.
 * `javac -profile <profile>` - compiles for a specific profile.
 
-#### Lambda Expressions and the stream API [🔗 [JEP 126](https://openjdk.java.net/jeps/126)]
+#### Lambda Expressions and the stream API [[JEP 126](https://openjdk.java.net/jeps/126)]
 
 * [Lambda Details](./lambda/lambda)
 
-#### Date & Time API - 🔗 [`java.time`](https://docs.oracle.com/javase/8/docs/api/index.html?java/time/package-summary.html) [🔗 [JEP 150](https://openjdk.java.net/jeps/150)]
+#### Date & Time API - 🔗 [`java.time`](https://docs.oracle.com/javase/8/docs/api/index.html?java/time/package-summary.html) [[JEP 150](https://openjdk.java.net/jeps/150)]
 
 Described in [*Java SE 8 for the really impatient*] chapter 5.
 
@@ -57,11 +57,11 @@ Base64 encoders and decoders for:
 
 See examples in [Base64Test](./util/Base64Test.java).
 
-#### JNI - Statically linked libraries [🔗 [JEP 178](https://openjdk.java.net/jeps/178)]
+#### JNI - Statically linked libraries [[JEP 178](https://openjdk.java.net/jeps/178)]
 
 * TODO
 
-#### Project Nashorn - javascript runtime [🔗 [JEP 174](https://openjdk.java.net/jeps/174)]
+#### Project Nashorn - javascript runtime [[JEP 174](https://openjdk.java.net/jeps/174)]
 
 * replaces Rhino
 * 🔗 [`javax.script`](https://docs.oracle.com/javase/8/docs/api/index.html?javax/script/package-summary.html)
@@ -72,6 +72,6 @@ See examples in [Base64Test](./util/Base64Test.java).
 
 #### Garbage Collectors
 
-* removal of the Permanent Generation [🔗 [JEP 122](https://openjdk.java.net/jeps/122)]
+* removal of the Permanent Generation [[JEP 122](https://openjdk.java.net/jeps/122)]
 
 HotSpot Virtual Machine Garbage Collection Tuning Guide, release 8 (🔗 [original link](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/index.html))
