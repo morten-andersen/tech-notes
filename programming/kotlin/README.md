@@ -19,6 +19,8 @@ IntelliJ IDEA
 
 * 🔗 [Kotlin Standard Library](https://kotlinlang.org/api/latest/jvm/stdlib/)
 * 🔗 [Coding Conventions](https://kotlinlang.org/docs/coding-conventions.html)
+* 🔗 [Kotlin Language Specification](https://kotlinlang.org/spec/) - covers only `Kotlin/Core`
+  * 🔗 [pdf version](https://kotlinlang.org/spec/pdf/kotlin-spec.pdf)
 * 🔗 [Get started with Kotlin/JVM﻿](https://kotlinlang.org/docs/jvm-get-started.html)
 
 ### Language

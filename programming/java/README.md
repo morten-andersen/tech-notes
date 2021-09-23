@@ -1,16 +1,16 @@
 ### What JVM (2020)
 
-* [*Which Java SDK Should You Use?*](https://developer.okta.com/blog/2019/01/16/which-java-sdk)
-  * [OpenJDK](https://openjdk.java.net/) - java.net in sdkman.
-  * [AdoptOpenJDK](https://adoptopenjdk.net/) - binaries build from openjdk.
-    * [OpenJDK Hotspot](https://openjdk.java.net/groups/hotspot/)
-    * [OpenJ9 VM](https://www.eclipse.org/openj9/) - eclipse VM for low memory usage and fast start-up time.
-  * [Amazon Corretto](https://aws.amazon.com/corretto/) - only LTS versions. The versions that are used on AWS.
-  * [Azul Zulu](https://www.azul.com/downloads/zulu/) - versions from version 6 and forward. Used on MS Azure.
-  * [BellSoft Liberica](https://bell-sw.com/java) - versions with JavaFX, normal and embedded.
+* 🔗 [*Which Java SDK Should You Use?*](https://developer.okta.com/blog/2019/01/16/which-java-sdk)
+  * 🔗 [OpenJDK](https://openjdk.java.net/) - java.net in sdkman.
+  * 🔗 [AdoptOpenJDK](https://adoptopenjdk.net/) - binaries build from openjdk.
+    * 🔗 [OpenJDK Hotspot](https://openjdk.java.net/groups/hotspot/)
+    * 🔗 [OpenJ9 VM](https://www.eclipse.org/openj9/) - eclipse VM for low memory usage and fast start-up time.
+  * 🔗 [Amazon Corretto](https://aws.amazon.com/corretto/) - only LTS versions. The versions that are used on AWS.
+  * 🔗 [Azul Zulu](https://www.azul.com/downloads/zulu/) - versions from version 6 and forward. Used on MS Azure.
+  * 🔗 [BellSoft Liberica](https://bell-sw.com/java) - versions with JavaFX, normal and embedded.
 
 * Java editions:
-  * [JavaFX](https://openjfx.io/) - versions with client UI libraries (`javafx.*` packages). Not included in the standard JDK from version 11.
+  * 🔗 [JavaFX](https://openjfx.io/) - versions with client UI libraries (`javafx.*` packages). Not included in the standard JDK from version 11.
 
 ### Versions
 
@@ -19,7 +19,8 @@
 
 ### Documentation
 
-* [Java SE Documentation](https://docs.oracle.com/en/java/javase/index.html)
+* 🔗 [Java SE Documentation](https://docs.oracle.com/en/java/javase/index.html)
+* 🔗 [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/)
 
 #### Version 8 (LTS) - 2014-03
 
