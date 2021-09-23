@@ -26,6 +26,7 @@ IntelliJ IDEA
 ### Language
 
 * [Basic Syntax](./basics/basics.md)
+* [Classes](./basics/classes.md)
 * [Collections](./basics/collections.md)
 * [Generics](./basics/generics.md)
 * [Kotlin CLI](./cli/cli.md)
