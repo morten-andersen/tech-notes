@@ -25,6 +25,7 @@ IntelliJ IDEA
 
 * [Basic Syntax](./basics/basics.md)
 * [Collections](./basics/collections.md)
+* [Generics](./basics/generics.md)
 * [Kotlin CLI](./cli/cli.md)
 * [Scripting in Kotlin](./scripts/scripting.md)
 
