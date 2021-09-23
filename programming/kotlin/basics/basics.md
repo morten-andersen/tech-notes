@@ -35,11 +35,40 @@ val withoutMargin1 = """ABC
 println(withoutMargin1) // ABC\n123\n456
 ```
 
+#### Nullable Types
+
+* `?` - safe call operator - `maybeNull?.operation()` - returns null or the result of `operation()`
+* `?:` - elvis operator - `maybeNull?.operation() ?: 'other value'` - returns the value on the right if left hand side is null
+* `!!` - unsafe operation (**do not use**) - `maybeNull!!.operation()`
+
 #### Types
 
 🔗 [`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/) is the root of the class hierarchy. Defines `equals()`, `hashCode()`, `toString()`. The property `javaClass` returns the runtime Java class of an object.
 
 `println(someObj.javaClass)`
+
+**Type Check**
+
+* `is` is used for type checking
+* `!is` is used for "negation" of the type checking
+
+```kotlin
+class Test {
+  override operator fun equals(other: Any?) = other is Test
+}
+```
+
+**Explicit Cast**
+
+In general this is not necessary if a type check with `is` is performed
+
+* `as` - explicit cast
+* `as?` - safe explicit cast
+
+```kotlin
+val msg1: String = fetchMessage() as String
+val msg2: String? = fetchMessage() as? String
+```
 
 #### Functions
 
