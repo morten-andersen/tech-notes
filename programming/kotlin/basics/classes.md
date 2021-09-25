@@ -61,7 +61,7 @@ class MachineOperator(val name: String) {
 }
 
 // create instance and checkin
-MachineOperator("Benno").checkin()
+MachineOperator("Alice").checkin()
 
 // operation on the class
 println(MachineOperator.minimumBreak()) //15 minutes every 2 hours
@@ -105,7 +105,7 @@ class MachineOperator private constructor(val name: String) {
 }
 
 // creating an instance using the factory method
-val operator = MachineOperator.create("Benno")
+val operator = MachineOperator.create("Alice")
 ```
 
 #### Data Classes
@@ -117,11 +117,11 @@ Kotlin will automatically create `equals()`, `hashCode()`, `toString()` and `cop
 ```kotlin
 data class DataClass(val name: String, val number: Int)
 
-val a = DataClass("Benno", 1)
+val a = DataClass("Alice", 1)
 
 // generated toString()
-println(a)
+println(a) // DataClass(name=Alice, number=1)
 
 // copy constructor - possible to set named variables
-val b = a.copy(name = "Pedro")
+val b = a.copy(name = "Bob")
 ```
