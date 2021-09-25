@@ -29,6 +29,7 @@ IntelliJ IDEA
 * [Classes](./basics/classes.md) and [class hierarchies](./basics/class-hierarchies.md)
 * [Collections](./basics/collections.md)
 * [Generics](./basics/generics.md)
+* [Delegation](./basics/delegation.md)
 * [Kotlin CLI](./cli/cli.md)
 * [Scripting in Kotlin](./scripts/scripting.md)
 
