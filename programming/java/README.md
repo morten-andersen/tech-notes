@@ -12,6 +12,10 @@
 * Java editions:
   * 🔗 [JavaFX](https://openjfx.io/) - versions with client UI libraries (`javafx.*` packages). Not included in the standard JDK from version 11.
 
+* Specialized virtual machines
+  * 🔗 [GraalVM](https://www.graalvm.org/)
+  * 🔗 [TornadoVM](https://www.tornadovm.org/)
+
 ### Versions
 
 * LTS version every 3 years.
