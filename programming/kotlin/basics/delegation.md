@@ -33,7 +33,7 @@ class Caller(val target: Itf): Itf by target {
 // delegation - caller -> SimpleImpl
 var caller = Caller(SimpleImpl())
 println(caller.something()) // delegation - "simple something"
-println(caller.otherthing()) // "local impl in Caller (hides simple other thing)""
+println(caller.otherthing()) // "local impl in Caller (hides simple other thing)"
 caller.printTarget() // SimpleImpl@705ea294
 
 // delegation - caller -> ComplexImpl
@@ -63,7 +63,7 @@ val lazyInitialized by lazy { expensiveOperation() }
 
 By default `lazy()` synchronizes the execution of the lambda function
 
-##### [observable](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.properties/-delegates/observable.html)
+##### [`observable`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.properties/-delegates/observable.html) Properties
 
 A property delegate that calls a callback function every time the property is changed
 
@@ -84,6 +84,6 @@ count-- // Property: var Line_359.count: kotlin.Int old: 1: new: 0
 println("The value of count is: $count")
 ```
 
-##### [vetoable](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.properties/-delegates/vetoable.html)
+##### [`vetoable`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.properties/-delegates/vetoable.html) Properties
 
 Similar to `observable` (called on all changes), but the lambda function should return a boolean value to potentially reject changes to a property
