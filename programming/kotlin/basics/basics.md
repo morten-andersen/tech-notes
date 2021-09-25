@@ -180,3 +180,39 @@ println(whatToDo("Friday"))
 println(systemInfo())
 ```
 ([WhenTests.kt](./WhenTests.kt))
+
+#### Enums
+
+```kotlin
+enum class Suit { CLUBS, DIAMONDS, HEARTS, SPADES }
+
+val clubs = Suit.CLUBS
+println(clubs) // CLUBS
+
+// parse a string as an enum instance
+val diamonds = Suit.valueOf("DIAMONDS")
+
+val err = Suit.valueOf("NON EXISTING") // throws IllegalArgumentException
+
+// iteration
+for (suit in Suit.values()) println(suit)
+
+// enum with state and methods
+enum class Suit(val symbol: Char) {
+  CLUBS('\u2663'),
+  DIAMONDS('\u2666'),
+  HEARTS('\u2665') {
+    override fun display() = "${super.display()} $symbol"
+  },
+  SPADES('\u2660'); // note this semicolon is necessary
+
+  open fun display() = "$symbol $name"
+}
+
+for (suit in Suit.values()) println(suit.display())
+// ♣ CLUBS
+// ♦ DIAMONDS
+// ♥ HEARTS ♥
+// ♠ SPADES
+
+```
