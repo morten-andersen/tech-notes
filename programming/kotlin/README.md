@@ -30,6 +30,7 @@ IntelliJ IDEA
 * [Collections](./basics/collections.md)
 * [Generics](./basics/generics.md)
 * [Delegation](./basics/delegation.md)
+* [Lambda](./basics/lambda.md)
 * [Kotlin CLI](./cli/cli.md)
 * [Scripting in Kotlin](./scripts/scripting.md)
 
