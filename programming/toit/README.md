@@ -12,7 +12,7 @@
 * `toit`
 * `toit doctor` - health check of local system
   * `toit doctor fix` - install or update the SDK
-  * `toit doctor -i` - show version information
+  * `toit doctor -v` - show version information
 * `toit exec <file>` - execute the program without a device
 
 The toit SDK installation is placed in `~/.cache/toit`
