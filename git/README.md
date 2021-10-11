@@ -1,5 +1,15 @@
 ### Git commands
 
+#### git config
+
+```bash
+git config --global user.email "<email>"
+git config --global user.name "<name>"
+
+# change the default editor on Ubuntu
+sudo update-alternatives --config editor
+```
+
 #### clear all local branches except master and current
 
 `git branch | egrep -v "(master|\*)" | xargs git branch -D`
