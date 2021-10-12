@@ -29,3 +29,7 @@ Command line for managing APT
 #### [Snap - Universal Linux Packages](./snap.md)
 
 Command line for managing Snap packages
+
+#### [Ubuntu - tips and tricks](./ubuntu.md)
+
+Various tips and tricks for Ubuntu
