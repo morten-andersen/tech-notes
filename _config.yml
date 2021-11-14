@@ -7,3 +7,5 @@ defaults:
         path: /assets/tech.jpg
         height: 640
         width: 1280
+plugins:
+  - jekyll-sitemap
