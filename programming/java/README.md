@@ -25,6 +25,7 @@
 
 * 🔗 [Java SE Documentation](https://docs.oracle.com/en/java/javase/index.html)
 * 🔗 [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/)
+* 🔗 [Secure Coding Guidelines for Java SE](https://www.oracle.com/java/technologies/javase/seccodeguide.html)
 
 #### Version 8 (LTS) - 2014-03
 
