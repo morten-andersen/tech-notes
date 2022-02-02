@@ -62,3 +62,11 @@ echoping -h / -v penni.io:80
 ```
 sudo netstat -ltnp
 ```
+
+#### Wifi Information and Scanning
+
+Information on CLI tools on Ubuntu [WifiNigel ->  Ubuntu Wi-Fi Client Information](https://wifinigel.blogspot.com/2018/01/ubuntu-wi-fi-client-information.html)
+
+```
+sudo wavemon # F3 shows the scanning
+```
