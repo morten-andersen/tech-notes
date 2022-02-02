@@ -33,6 +33,7 @@ Online tools for testing **network settings** for HTTP and mail servers
   * **DANE - DNS-based Authentication of Named Entities** - DNS records which tell other mail servers that a mail server supports TLS encryption and what certificate to expect when connecting to the sending server (only secure if DNSSEC it enabled) ([Internet Society - DANE](https://www.internetsociety.org/resources/deploy360/dane/))
   * **DANE vs. MTA-STS** [ProtonMail Security Update -> DANE and MTA-STS – thwarting active attackers](https://protonmail.com/blog/security-updates-2019/). MTA-STS is HSTS for email. The sending mail server looks up and caches an MTA-STS policy, which tells it that the receiving mail server supports encryption (not effective for domains with limited mail traffic)
 * [DK Hostmaster -> DNSSEC](https://www.dk-hostmaster.dk/da/dnssec)
+* [How to test and validate DNSSEC using dig](https://www.cyberciti.biz/faq/unix-linux-test-and-validate-dnssec-using-dig-command-line/)
 
 #### Databreaches
 
