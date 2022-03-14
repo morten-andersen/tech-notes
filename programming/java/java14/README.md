@@ -3,11 +3,6 @@
 * 🔗 [Java 14 Documentation](https://docs.oracle.com/javase/14/)
 * 🔗 [Java 14 Javadoc](https://docs.oracle.com/en/java/javase/14/docs/api/index.html)
 
-#### Usage from sdkman
-
-* `sdk install java 14.0.0.hs-adpt` - install
-* `sdk use java 14.0.0.hs-adpt` - use in current shell
-
 #### Garbage Collectors
 
 HotSpot Virtual Machine Garbage Collection Tuning Guide, release 14 [pdf](./docs/hotspot-virtual-machine-garbage-collection-tuning-guide-v14.pdf) (🔗 [original link](https://docs.oracle.com/en/java/javase/14/gctuning/))

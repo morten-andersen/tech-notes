@@ -3,11 +3,13 @@
 * 🔗 [*Which Java SDK Should You Use?*](https://developer.okta.com/blog/2019/01/16/which-java-sdk)
   * 🔗 [OpenJDK](https://openjdk.java.net/) - java.net in sdkman.
   * 🔗 [AdoptOpenJDK](https://adoptopenjdk.net/) - binaries build from openjdk.
+    * 🔗 Renamed in 2021 to [Eclipse Adoptium Temurin](https://adoptium.net/)
     * 🔗 [OpenJDK Hotspot](https://openjdk.java.net/groups/hotspot/)
     * 🔗 [OpenJ9 VM](https://www.eclipse.org/openj9/) - eclipse VM for low memory usage and fast start-up time.
   * 🔗 [Amazon Corretto](https://aws.amazon.com/corretto/) - only LTS versions. The versions that are used on AWS.
   * 🔗 [Azul Zulu](https://www.azul.com/downloads/zulu/) - versions from version 6 and forward. Used on MS Azure.
   * 🔗 [BellSoft Liberica](https://bell-sw.com/java) - versions with JavaFX, normal and embedded.
+* [JDKs in SDKMan](https://sdkman.io/jdks)
 
 * Java editions:
   * 🔗 [JavaFX](https://openjfx.io/) - versions with client UI libraries (`javafx.*` packages). Not included in the standard JDK from version 11.

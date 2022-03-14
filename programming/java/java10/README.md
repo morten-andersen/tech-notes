@@ -3,11 +3,6 @@
 * 🔗 [Java 10 Documentation](https://docs.oracle.com/javase/10/)
 * 🔗 [Java 10 Javadoc](https://docs.oracle.com/javase/10/docs/api/index.html?overview-summary.html)
 
-#### Usage from sdkman
-
-* `sdk install java 10.0.2-open` - install
-* `sdk use java 10.0.2-open` - use in current shell
-
 #### Local-Variable Type Inference [[JEP 286](https://openjdk.java.net/jeps/286)]
 
 * introduces `var`

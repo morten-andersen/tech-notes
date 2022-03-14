@@ -5,8 +5,8 @@
 
 #### Usage from sdkman
 
-* `sdk install java 11.0.6.hs-adpt` - install
-* `sdk use java 11.0.6.hs-adpt` - use in current shell
+* `sdk install java 11.0.12-open` - install
+* `sdk use java 11.0.12-open` - use in current shell
 
 #### HTTP client [[JEP 321](https://openjdk.java.net/jeps/321)]
 

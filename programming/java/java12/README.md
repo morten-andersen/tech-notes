@@ -3,11 +3,6 @@
 * 🔗 [Java 12 Documentation](https://docs.oracle.com/javase/12/)
 * 🔗 [Java 12 Javadoc](https://docs.oracle.com/en/java/javase/12/docs/api/index.html)
 
-#### Usage from sdkman
-
-* `sdk install java 12.0.2.hs-adpt` - install
-* `sdk use java 12.0.2.hs-adpt` - use in current shell
-
 #### Garbage Collectors
 
 HotSpot Virtual Machine Garbage Collection Tuning Guide, release 12 [pdf](./docs/hotspot-virtual-machine-garbage-collection-tuning-guide-v12.pdf) (🔗 [original link](https://docs.oracle.com/en/java/javase/12/gctuning/))

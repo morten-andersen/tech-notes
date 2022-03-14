@@ -3,11 +3,6 @@
 * 🔗 [Java 9 Documentation](https://docs.oracle.com/javase/9/)
 * 🔗 [Java 9 Javadoc](https://docs.oracle.com/javase/9/docs/api/index.html?overview-summary.html)
 
-#### Usage from sdkman
-
-* `sdk install java 9.0.4-open` - install
-* `sdk use java 9.0.4-open` - use in current shell
-
 #### Java Modules
 
 * Java 9 Modularity book

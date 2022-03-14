@@ -5,8 +5,8 @@
 
 #### Usage from sdkman
 
-* `sdk install java 8.0.242.hs-adpt` - install
-* `sdk use java 8.0.242.hs-adpt` - use in current shell
+* `sdk install java 8.0.302-open` - install
+* `sdk use java 8.0.302-open` - use in current shell
 
 #### Compact Profiles [[JEP 161](https://openjdk.java.net/jeps/161)]
 
