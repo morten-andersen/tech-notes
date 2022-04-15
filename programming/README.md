@@ -15,6 +15,10 @@
 
 * [SDKMAN](./sdkman) for managing JVM's and Java related tools (Maven, Ant, Gradle, Micronaut, etc.)
 
+### Libraries
+
+* [Kafka](./kafka)
+
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
