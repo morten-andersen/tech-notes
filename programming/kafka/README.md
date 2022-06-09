@@ -2,6 +2,7 @@
 
 #### Books / Articles
 
+* [*Kafka: The Definitive Guide, Real-Time Data and Stream Processing at Scale*](https://www.confluent.io/resources/kafka-the-definitive-guide-v2/) - notes for it at [book-notes -> kafka](https://book-notes.accel.dk/kafka/)
 * [Apache Kafka in a Nutshell](https://medium.com/swlh/apache-kafka-in-a-nutshell-5782b01d9ffb) Architecture, Use Cases, and a Getting Started guide — rolled into one
 * [*Effective Kafka*, Emil Koutanov](https://leanpub.com/effectivekafka) - by the author of Kafdrop
 * [Setting Up Your Local Event-Driven Environment Using Kafka Docker](https://betterprogramming.pub/your-local-event-driven-environment-using-dockerised-kafka-cluster-6e84af09cd95)
