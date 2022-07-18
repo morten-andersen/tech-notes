@@ -2,6 +2,10 @@
 
 next step in *tour of go*: [Exercise: Fibonacci closure](https://tour.golang.org/moretypes/26)
 
+### Language Overview
+
+* 🔗 [The Go Programming Language and Environment](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext) in *Communications of the ACM*, May 2022, Vol. 65, No. 5
+
 #### Install on Ubuntu
 
 `sudo snap install go`

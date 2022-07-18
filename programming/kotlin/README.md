@@ -37,3 +37,7 @@ IntelliJ IDEA
 ### Books
 
 * 🔗 [PragProg - Programming Kotlin](https://pragprog.com/titles/vskotlin/programming-kotlin/)
+
+### Presentations
+
+* 🔗 [Shoulders of Giants: Languages Kotlin learned from - Andrey Breslav](https://www.youtube.com/watch?v=Ljr66Bg--1M)
