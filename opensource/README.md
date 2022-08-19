@@ -9,20 +9,24 @@ Below is a list of the projects I have donated to over the years.
 * [Copenhagen Suborbitals](https://copenhagensuborbitals.com) the worlds only manned amateur space program. I have been supporting this every month since 2011
 * [Dansk Datahistorisk Forening](https://datamuseum.dk/) - a volunteer run IT history museum and collection focusing on the Danish IT history
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/) - for defending digital privacy, free speech, and innovation on the Internet
-* [Ubuntu MATE](https://ubuntu-mate.org/) lightweight Ubuntu version using the MATE desktop manager
+* [Ubuntu MATE](https://ubuntu-mate.org/) - lightweight Ubuntu version using the MATE desktop manager
 * [Mozilla Foundation](https://www.mozilla.org) - the foundation behind Firefox, Thunderbird, Seamonkey, the Mozilla suite
+* [Wikipedia](https://www.wikipedia.org/) - the free collaboratively written encyclopedia
+* [Tor Project](https://www.torproject.org/) - for an uncensored and private web
+* [KeePassXC](https://keepassxc.org/) - cross platform password manager
+* [SDKMAN!](https://sdkman.io/) - the Software Development Kit Manager for installing Java related software
+* [Open Collective](https://opencollective.com/morten-andersen) - contributions via Open Collective
 
 #### 2021
 
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/)
 * [Ubuntu MATE](https://ubuntu-mate.org/)
 * [Mozilla Foundation](https://www.mozilla.org)
-* [LibreOffice](https://www.libreoffice.org/) free and open source office suite
+* [LibreOffice](https://www.libreoffice.org/) - free and open source office suite
 * [Wikipedia](https://www.wikipedia.org/)
-* [KeePassXC](https://keepassxc.org/) cross platform password manager
-* [Tor Project](https://www.torproject.org/) for an uncensored and private web
-* [SDKMAN!](https://sdkman.io/) the Software Development Kit Manager for installing Java related software
-* [Open Collective](https://opencollective.com/morten-andersen) contributions via Open Collective
+* [KeePassXC](https://keepassxc.org/)
+* [Tor Project](https://www.torproject.org/)
+* [SDKMAN!](https://sdkman.io/)
 
 #### 2017
 
@@ -34,13 +38,13 @@ Below is a list of the projects I have donated to over the years.
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/)
 * [Enigmail](https://www.enigmail.net/) - OpenPGP plugin for Mozilla Seamonkey and Thunderbird
 * [GnuPG](https://gnupg.org/) - open and free implementation of the OpenPGP standard for encrypted communication
-* [KeePassX](https://www.keepassx.org/) cross platform password manager
+* [KeePassX](https://www.keepassx.org/) - cross platform password manager
 * [LibreOffice](https://www.libreoffice.org/)
 * [Mozilla Foundation](https://www.mozilla.org)
-* [NoScript](https://noscript.net/) security plugin for Mozilla based browsers
-* [OpenSSL](https://www.openssl.org/) the standard free and open source TLS and SSL implementation
+* [NoScript](https://noscript.net/) - security plugin for Mozilla based browsers
+* [OpenSSL](https://www.openssl.org/) - the standard free and open source TLS and SSL implementation
 * [Tor Project](https://www.torproject.org/)
-* [Ubuntu](https://ubuntu.com/) which I have used as my working and personal operating system since Ubuntu Desktop 8.04
+* [Ubuntu](https://ubuntu.com/) - which I have used as my working and personal operating system since Ubuntu Desktop 8.04
 * [Wikipedia](https://www.wikipedia.org/)
 * [Zeroshell Linux Router](https://zeroshell.org/)
 
@@ -66,7 +70,7 @@ Below is a list of the projects I have donated to over the years.
 
 #### 2012
 
-* [KeePassDroid](http://www.keepassdroid.com/) KeePass password manager for Android
+* [KeePassDroid](http://www.keepassdroid.com/) - KeePass password manager for Android
 * [LibreOffice](https://www.libreoffice.org/)
 * [Seamonkey Project](https://www.seamonkey-project.org/)
 * [Truecrypt](http://www.truecrypt.org/)
@@ -77,7 +81,7 @@ Below is a list of the projects I have donated to over the years.
 
 * [Lyx](https://www.lyx.org/) TeX/LaTeX editor
 * [NoScript](https://noscript.net/)
-* [The Libel Reform Campaign](http://www.libelreform.org/) a campaign to reform the libel and deformation laws in Great Britain which threatened scientific debate
+* [The Libel Reform Campaign](http://www.libelreform.org/) - a campaign to reform the libel and deformation laws in Great Britain which threatened scientific debate
 
 #### 2009
 
