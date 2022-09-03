@@ -10,9 +10,9 @@ git config --global user.name "<name>"
 sudo update-alternatives --config editor
 ```
 
-#### clear all local branches except master and current
+#### clear all local branches except main and current
 
-`git branch | egrep -v "(master|\*)" | xargs git branch -D`
+`git branch | egrep -v "(main|\*)" | xargs git branch -D`
 
 #### git stash
 
@@ -82,18 +82,18 @@ git-sub () {
 
 **create a git alias**
 
-* which is named `mwps-master` (*merge when pipeline succeeds*)
-* that creates a merge request with target `master` that automatically merges
+* which is named `mwps-main` (*merge when pipeline succeeds*)
+* that creates a merge request with target `main` that automatically merges
 * set the upstream branch to the same name as the current local branch (indicated by `origin HEAD`)
 * also pushes any tags - e.g. created by `npm version`
 
 ```bash
-git config --global alias.mwps-master "push -o merge_request.create -o merge_request.target=master -o merge_request.merge_when_pipeline_succeeds --set-upstream origin HEAD --follow-tags"
+git config --global alias.mwps-main "push -o merge_request.create -o merge_request.target=main -o merge_request.merge_when_pipeline_succeeds --set-upstream origin HEAD --follow-tags"
 ```
 
 **use the alias**
 
-* `git mwps-master` - will push and create a MR on gitlab from the current branch
+* `git mwps-main` - will push and create a MR on gitlab from the current branch
 
 #### working with git-flow branching
 
@@ -101,18 +101,18 @@ git config --global alias.mwps-master "push -o merge_request.create -o merge_req
 
 **conceptual description of the flow**
 
-* merge `development` into `master`
-* create a new version and tag on `master`
-* merge `master` back into `development`
+* merge `development` into `main`
+* create a new version and tag on `main`
+* merge `main` back into `development`
 
 **detailed steps on GitLab**
 
-1. via gitlab GUI create a MR from development into master
+1. via gitlab GUI create a MR from development into main
 2. when merged
-3. `git checkout master` - checkout master
+3. `git checkout main` - checkout main
 4. `git checkout -b branch<new-version>` - create a new branch
 5. `npm version <patch | minor | major>` - create the version
-6. `git mwps-master` - push branch and version tag, creating the MR.
+6. `git mwps-main` - push branch and version tag, creating the MR.
 7. go to the MR on gitlab GUI and approve
 8. when done and merged
-9. via gitlab GUI create a MR from master back on development
+9. via gitlab GUI create a MR from main back on development
