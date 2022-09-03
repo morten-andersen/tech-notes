@@ -18,3 +18,13 @@ localectl list-locales
 # set locale to en_DK
 localectl set-locale LANG=en_DK.UTF-8
 ```
+
+#### Slack - Disable Notifications
+
+[Slack app on Linux: How to disable the "blue circle" icon on channel activity?](https://superuser.com/questions/1211975/slack-app-on-linux-how-to-disable-the-blue-circle-icon-on-channel-activity)
+
+```bash
+cd /usr/lib/slack/resources/app.asar.unpacked/dist/resources
+sudo cp slack-taskbar-unread.ico{,.ori}
+sudo cp slack-taskbar-{rest,unread}.ico
+```
