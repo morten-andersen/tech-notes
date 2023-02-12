@@ -5,6 +5,7 @@
 * [JavaScript, TypeScript and Node.js](./javascript)
 * [R Statistical Language](./rscript), which I used in my Master Thesis for generating a large number of graphs programmatically
 * [Go notes](./go)
+* [Elixir](./elixir) - functional language running on the Erlang VM
 * [Toit notes](./toit) a language and platform for IoT
 
 ### Code Conventions
