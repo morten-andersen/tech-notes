@@ -21,3 +21,7 @@ Available on the [Wayback Machine](https://web.archive.org/web/20160308031939/ht
 #### Holiday Calendars (ical)
 
 [OfficeHolidays](https://www.officeholidays.com/countries)
+
+#### Usage of Dates and Times in programs
+
+[Usage of Dates and Times in Networked Applications](./usage-of-dates.md)
