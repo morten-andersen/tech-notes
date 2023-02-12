@@ -22,6 +22,6 @@ Available on the [Wayback Machine](https://web.archive.org/web/20160308031939/ht
 
 [OfficeHolidays](https://www.officeholidays.com/countries)
 
-#### Usage of Dates and Times in programs
+#### Usage of Dates and Times in Programming
 
 [Usage of Dates and Times in Networked Applications](./usage-of-dates.md)

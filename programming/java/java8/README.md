@@ -26,6 +26,8 @@ Described in [*Java SE 8 for the really impatient*] chapter 5.
 
 All objects are immutable.
 
+A few notes on date and datetime used in programming is found in [Usage of Dates and Times in Networked Applications](../../../time/usage-of-dates.md)
+
 * `Instant` - a point in time.
 * `Duration` - a *time* based amount of time. The difference between two `Instant`'s. See [DurationTest](./time/DurationTest.java) for an example of measuring the duration of an operation.
 * `Period` - a *date* based amount of time. Use this when working with calendar days.
