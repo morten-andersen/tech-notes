@@ -1,6 +1,6 @@
 ### Elixir
 
-https://elixir-lang.org
+[https://elixir-lang.org](https://elixir-lang.org)
 
 Language that runs on top of the Erlang VM.
 
