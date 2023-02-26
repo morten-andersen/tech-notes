@@ -7,6 +7,7 @@
 * [Go notes](./go)
 * [Elixir](./elixir) - functional language running on the Erlang VM
 * [Toit notes](./toit) a language and platform for IoT
+* [Rust - The history of Rust](https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language/)
 
 ### Code Conventions
 
