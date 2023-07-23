@@ -2,11 +2,18 @@ I am a proud open source software supporter. Mostly financially instead of donat
 
 Below is a list of the projects I have donated to over the years.
 
-#### 2022
+#### 2023
 
 * [Copenhagen Suborbitals](https://copenhagensuborbitals.com) the worlds only manned amateur space program. I have been supporting this every month since 2011
 * [Dansk Datahistorisk Forening](https://datamuseum.dk/) - a volunteer run IT history museum and collection focusing on the Danish IT history
+* [ACM - Association for Computing Machinery](https://www.acm.org/) - professional member of the world's largest educational and scientific computing society
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/) - for defending digital privacy, free speech, and innovation on the Internet
+
+#### 2022
+
+* [Copenhagen Suborbitals](https://copenhagensuborbitals.com)
+* [Dansk Datahistorisk Forening](https://datamuseum.dk/)
+* [EFF - Electronic Frontier Foundation](https://www.eff.org/)
 * [Ubuntu MATE](https://ubuntu-mate.org/) - lightweight Ubuntu version using the MATE desktop manager
 * [Mozilla Foundation](https://www.mozilla.org) - the foundation behind Firefox, Thunderbird, Seamonkey, the Mozilla suite
 * [Wikipedia](https://www.wikipedia.org/) - the free collaboratively written encyclopedia
