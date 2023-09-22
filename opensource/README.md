@@ -10,19 +10,25 @@ Below is a list of the projects I have donated to over the years.
 * [Dansk Datahistorisk Forening](https://datamuseum.dk/) - a volunteer run IT history museum and collection focusing on the Danish IT history
 * [ACM - Association for Computing Machinery](https://www.acm.org/) - professional member of the world's largest educational and scientific computing society
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/) - for defending digital privacy, free speech, and innovation on the Internet
+* [Ubuntu MATE](https://ubuntu-mate.org/) - lightweight Ubuntu version using the MATE desktop manager
+* [Mozilla Foundation](https://www.mozilla.org) - the foundation behind Firefox, Thunderbird, Seamonkey, the Mozilla suite
+* [Wikipedia](https://www.wikipedia.org/) - the free collaboratively written encyclopedia
+* [KeePassXC](https://keepassxc.org/) - cross platform password manager
+* [SDKMAN!](https://sdkman.io/) - the Software Development Kit Manager for installing Java related software
+* [Open Collective](https://opencollective.com/morten-andersen) - contributions via Open Collective
 
 #### 2022
 
 * [Copenhagen Suborbitals](https://copenhagensuborbitals.com)
 * [Dansk Datahistorisk Forening](https://datamuseum.dk/)
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/)
-* [Ubuntu MATE](https://ubuntu-mate.org/) - lightweight Ubuntu version using the MATE desktop manager
-* [Mozilla Foundation](https://www.mozilla.org) - the foundation behind Firefox, Thunderbird, Seamonkey, the Mozilla suite
-* [Wikipedia](https://www.wikipedia.org/) - the free collaboratively written encyclopedia
+* [Ubuntu MATE](https://ubuntu-mate.org/)
+* [Mozilla Foundation](https://www.mozilla.org)
+* [Wikipedia](https://www.wikipedia.org/)
 * [Tor Project](https://www.torproject.org/) - for an uncensored and private web
-* [KeePassXC](https://keepassxc.org/) - cross platform password manager
-* [SDKMAN!](https://sdkman.io/) - the Software Development Kit Manager for installing Java related software
-* [Open Collective](https://opencollective.com/morten-andersen) - contributions via Open Collective
+* [KeePassXC](https://keepassxc.org/)
+* [SDKMAN!](https://sdkman.io/)
+* [Open Collective](https://opencollective.com/morten-andersen)
 
 #### 2021
 
