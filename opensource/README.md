@@ -95,7 +95,7 @@ Below is a list of the projects I have donated to over the years.
 
 * [Lyx](https://www.lyx.org/) TeX/LaTeX editor
 * [NoScript](https://noscript.net/)
-* [The Libel Reform Campaign](http://www.libelreform.org/) - a campaign to reform the libel and deformation laws in Great Britain which threatened scientific debate
+* [The Libel Reform Campaign](https://senseaboutscience.org/activities/libel-reform/) - a campaign to reform the libel and deformation laws in Great Britain which threatened scientific debate
 
 #### 2009
 
