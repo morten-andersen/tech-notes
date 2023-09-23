@@ -43,6 +43,13 @@ A special construct to make it simple to wrap single properties at compile time 
 value class Password(private val s: String)
 ```
 
+🔗 [Avoiding Stringly-typed in Kotlin](https://blog.frankel.ch/avoid-stringly-typed-kotlin/) - a blog post on
+
+* type aliases (don't use)
+* enums
+* inline classes
+* sealed classes
+
 #### Class Members (`static`)
 
 Static functions and properties is not allowed in Kotlin. Instead a so called `companion object` is used

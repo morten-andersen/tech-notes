@@ -28,6 +28,8 @@
 * 🔗 [Java SE Documentation](https://docs.oracle.com/en/java/javase/index.html)
 * 🔗 [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/)
 * 🔗 [Secure Coding Guidelines for Java SE](https://www.oracle.com/java/technologies/javase/seccodeguide.html)
+* 🔗 [mkyong -> What is new in Java 17](https://mkyong.com/java/what-is-new-in-java-17/)
+* 🔗 [JVM Memory](./memory)
 
 #### Version 8 (LTS) - 2014-03
 
@@ -53,6 +55,8 @@
 
 * `var` - local-variable type inference
 * graalvm
+* run source code files without having to compile them
+  * `java Test.java`
 
 #### Version 11 (LTS) - 2018-09
 
