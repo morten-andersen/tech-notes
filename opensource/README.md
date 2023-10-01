@@ -30,7 +30,7 @@ Below is a list of the projects I have donated to over the years.
 * [KeePassXC](https://keepassxc.org/)
 * [SDKMAN!](https://sdkman.io/)
 * [Open Collective](https://opencollective.com/morten-andersen)
-* [Foreningen imod Ulovlig Logning](https://ulovliglogning.dk/) - a campaing to end the mass retention of telecom data in Denmark without any legal foundation. This has on several occasions been demeed clearly illegal by the European Court of Justice.
+* [Foreningen imod Ulovlig Logning](https://ulovliglogning.dk/) - a campaign to end the mass retention of telecom data in Denmark without any legal foundation. This has on several occasions been demeed clearly illegal by the European Court of Justice.
 
 #### 2021
 
