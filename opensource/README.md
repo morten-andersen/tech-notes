@@ -13,6 +13,7 @@ Below is a list of the projects I have donated to over the years.
 * [Ubuntu MATE](https://ubuntu-mate.org/) - lightweight Ubuntu version using the MATE desktop manager
 * [Mozilla Foundation](https://www.mozilla.org) - the foundation behind Firefox, Thunderbird, Seamonkey, the Mozilla suite
 * [Wikipedia](https://www.wikipedia.org/) - the free collaboratively written encyclopedia
+* [Tor Project](https://www.torproject.org/) - for an uncensored and private web
 * [KeePassXC](https://keepassxc.org/) - cross platform password manager
 * [SDKMAN!](https://sdkman.io/) - the Software Development Kit Manager for installing Java related software
 * [Open Collective](https://opencollective.com/morten-andersen) - contributions via Open Collective
@@ -26,7 +27,7 @@ Below is a list of the projects I have donated to over the years.
 * [Ubuntu MATE](https://ubuntu-mate.org/)
 * [Mozilla Foundation](https://www.mozilla.org)
 * [Wikipedia](https://www.wikipedia.org/)
-* [Tor Project](https://www.torproject.org/) - for an uncensored and private web
+* [Tor Project](https://www.torproject.org/)
 * [KeePassXC](https://keepassxc.org/)
 * [SDKMAN!](https://sdkman.io/)
 * [Open Collective](https://opencollective.com/morten-andersen)
