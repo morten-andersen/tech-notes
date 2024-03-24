@@ -2,11 +2,13 @@
 
 #### General Resources
 
+##### Vlad Mihalcea (Hibernate)
+
 * [Vlad Mihalcea](https://vladmihalcea.com/) on all things Java Persistence (MySQL, PostgreSQL, Hibernate, etc.)
-  * [SQL Tutorials](https://vladmihalcea.com/tutorials/sql/)
-  * [TSID – Time-Sorted Unique Identifiers](https://vladmihalcea.com/uuid-database-primary-key/) much more efficient than using UUIDs
-    * [TSID Generator](https://github.com/vladmihalcea/hypersistence-tsid) a Java library for generating TSIDs
-  * [Audit logging using triggers With MySQL](https://vladmihalcea.com/mysql-audit-logging-triggers/) record all changes to a table in a "history"/"audit" table
+* [SQL Tutorials](https://vladmihalcea.com/tutorials/sql/)
+* [TSID – Time-Sorted Unique Identifiers](https://vladmihalcea.com/uuid-database-primary-key/) much more efficient than using UUIDs
+  * [TSID Generator](https://github.com/vladmihalcea/hypersistence-tsid) a Java library for generating TSIDs
+* [Audit logging using triggers With MySQL](https://vladmihalcea.com/mysql-audit-logging-triggers/) record all changes to a table in a "history"/"audit" table
 
 #### MySQL
 
