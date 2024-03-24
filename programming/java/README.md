@@ -18,6 +18,11 @@
   * 🔗 [GraalVM](https://www.graalvm.org/)
   * 🔗 [TornadoVM](https://www.tornadovm.org/)
 
+### Java Performance Tools
+
+* [JMH - Java Microbenchmark Harness](https://github.com/openjdk/jmh) for microbenchmarking
+* [jHiccup](https://www.azul.com/products/components/jhiccup/) for measuring JVM pauses due to GC
+
 ### Versions
 
 * LTS version every 3 years.
