@@ -33,6 +33,7 @@ IntelliJ IDEA
 * [Lambda](./basics/lambda.md)
 * [Kotlin CLI](./cli/cli.md)
 * [Scripting in Kotlin](./scripts/scripting.md)
+* [Functional Programming](./basics/functional.md)
 
 ### Books
 
