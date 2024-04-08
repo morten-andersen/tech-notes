@@ -1,6 +1,6 @@
 ### Functional Programming in Kotlin
 
-#### [Arrow](https://arrow-kt.io/)
+#### 🔗 [Arrow](https://arrow-kt.io/)
 
 A library to assist in functional programming in Kotlin.
 
