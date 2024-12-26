@@ -4,19 +4,36 @@ I am a proud open source software supporter. Mostly financially instead of donat
 
 Below is a list of the projects I have donated to over the years.
 
-#### 2023
+#### 2024
 
-* [Copenhagen Suborbitals](https://copenhagensuborbitals.com) the worlds only manned amateur space program. I have been supporting this every month since 2011
+* [Copenhagen Suborbitals](https://copenhagensuborbitals.com) - the worlds only manned amateur space program. I was supporting this every month from 2011 to 2024
 * [Dansk Datahistorisk Forening](https://datamuseum.dk/) - a volunteer run IT history museum and collection focusing on the Danish IT history
 * [ACM - Association for Computing Machinery](https://www.acm.org/) - professional member of the world's largest educational and scientific computing society
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/) - for defending digital privacy, free speech, and innovation on the Internet
+* [Proton](https://proton.me/) - privacy and freedom tools for the Internet. I have been a paying user of their mail services since 2019
 * [Ubuntu MATE](https://ubuntu-mate.org/) - lightweight Ubuntu version using the MATE desktop manager
 * [Mozilla Foundation](https://www.mozilla.org) - the foundation behind Firefox, Thunderbird, Seamonkey, the Mozilla suite
 * [Wikipedia](https://www.wikipedia.org/) - the free collaboratively written encyclopedia
 * [Tor Project](https://www.torproject.org/) - for an uncensored and private web
+* [The Internet Archive](https://archive.org/) - for preserving the history of the Internet with the [Wayback Machine](https://web.archive.org/)
 * [KeePassXC](https://keepassxc.org/) - cross platform password manager
 * [SDKMAN!](https://sdkman.io/) - the Software Development Kit Manager for installing Java related software
 * [Open Collective](https://opencollective.com/morten-andersen) - contributions via Open Collective
+
+#### 2023
+
+* [Copenhagen Suborbitals](https://copenhagensuborbitals.com)
+* [Dansk Datahistorisk Forening](https://datamuseum.dk/)
+* [ACM - Association for Computing Machinery](https://www.acm.org/)
+* [EFF - Electronic Frontier Foundation](https://www.eff.org/)
+* [Proton](https://proton.me/)
+* [Ubuntu MATE](https://ubuntu-mate.org/)
+* [Mozilla Foundation](https://www.mozilla.org)
+* [Wikipedia](https://www.wikipedia.org/)
+* [Tor Project](https://www.torproject.org/)
+* [KeePassXC](https://keepassxc.org/)
+* [SDKMAN!](https://sdkman.io/)
+* [Open Collective](https://opencollective.com/morten-andersen)
 
 #### 2022
 
@@ -47,7 +64,7 @@ Below is a list of the projects I have donated to over the years.
 #### 2017
 
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/)
-* [Zeroshell Linux Router](https://zeroshell.org/) which I ran on my personal router and wifi access point on a PC Engines [Alix board](https://www.pcengines.ch/alix.htm).
+* [Zeroshell Linux Router](https://web.archive.org/web/20220114033121/https://www.zeroshell.org/) - which I ran on my personal router and wifi access point on a PC Engines [Alix board](https://www.pcengines.ch/alix.htm).
 
 #### 2016
 
@@ -62,7 +79,7 @@ Below is a list of the projects I have donated to over the years.
 * [Tor Project](https://www.torproject.org/)
 * [Ubuntu](https://ubuntu.com/) - which I have used as my working and personal operating system since Ubuntu Desktop 8.04
 * [Wikipedia](https://www.wikipedia.org/)
-* [Zeroshell Linux Router](https://zeroshell.org/)
+* [Zeroshell Linux Router](https://web.archive.org/web/20220114033121/https://www.zeroshell.org/)
 
 #### 2014
 
@@ -73,7 +90,7 @@ Below is a list of the projects I have donated to over the years.
 * [Tor Project](https://www.torproject.org/)
 * [Ubuntu](https://ubuntu.com/)
 * [Wikipedia](https://www.wikipedia.org/)
-* [Zeroshell Linux Router](https://zeroshell.org/)
+* [Zeroshell Linux Router](https://web.archive.org/web/20220114033121/https://www.zeroshell.org/)
 
 #### 2013
 
@@ -82,7 +99,7 @@ Below is a list of the projects I have donated to over the years.
 * [Mozilla Foundation](https://www.mozilla.org)
 * [Tor Project](https://www.torproject.org/)
 * [Ubuntu](https://ubuntu.com/)
-* [Zeroshell Linux Router](https://zeroshell.org/)
+* [Zeroshell Linux Router](https://web.archive.org/web/20220114033121/https://www.zeroshell.org/)
 
 #### 2012
 
@@ -91,11 +108,11 @@ Below is a list of the projects I have donated to over the years.
 * [Seamonkey Project](https://www.seamonkey-project.org/)
 * [Truecrypt](http://www.truecrypt.org/)
 * [Ubuntu](https://ubuntu.com/)
-* [Zeroshell Linux Router](https://zeroshell.org/)
+* [Zeroshell Linux Router](https://web.archive.org/web/20220114033121/https://www.zeroshell.org/)
 
 #### 2010
 
-* [Lyx](https://www.lyx.org/) TeX/LaTeX editor
+* [Lyx](https://www.lyx.org/) - TeX/LaTeX editor
 * [NoScript](https://noscript.net/)
 * [The Libel Reform Campaign](https://senseaboutscience.org/activities/libel-reform/) - a campaign to reform the libel and deformation laws in Great Britain which threatened scientific debate
 
