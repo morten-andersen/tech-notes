@@ -13,6 +13,7 @@
 
 * [Node.js](./nodejs.md) information on **Node Version Manager** `nvm`
 * [npm](./npm.md) information on **Node Package Manager** `npm`
+* [NestJS](./nestjs.md) information on the **NestJS** framework
 
 #### Resources
 
