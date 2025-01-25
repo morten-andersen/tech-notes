@@ -3,7 +3,7 @@ Notes on programming languages, network, systems, calendars, etc.
 ### Programming Languages and Development Tools
 
 * [**Programming Language Notes**](./programming) - notes on Java, JavaScript, node.js, etc.
-* [**SQL**](./sql)
+* [**SQL**](./sql) - notes on SQL related things
 * [**git**](./git) - notes on git revision control
 
 ### Linux
