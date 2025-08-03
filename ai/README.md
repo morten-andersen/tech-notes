@@ -14,12 +14,12 @@
 
 🌐 [NeoSage Blog](https://blog.neosage.io)
 
-* Part 1 pre-training - the base model - 🌐 [How GPTs Are Born: Internet Feeding, Token by Token](https://blog.neosage.io/p/how-gpts-are-born-internet-feeding)
+* **Part 1 pre-training - the base model** - 🌐 [How GPTs Are Born: Internet Feeding, Token by Token](https://blog.neosage.io/p/how-gpts-are-born-internet-feeding)
   * basically a lossy compression of the Internet
   * guesses, does not retrieve current information
   * just a "pattern generator"
   * stochastic, not deterministic
-* Part 2 post-training - 🌐 [How GPTs Learn to Be Helpful](https://blog.neosage.io/p/how-gpts-learn-to-be-helpful)
+* **Part 2 post-training** - 🌐 [How GPTs Learn to Be Helpful](https://blog.neosage.io/p/how-gpts-learn-to-be-helpful)
   * *supervised fine-tuning* (SFT)
   * *reinforcement learning* (RL)
   * *reinforcement learning with human feedback* (RLHF)
