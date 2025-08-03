@@ -39,7 +39,7 @@
     * *Parameter memory* - baked into the model weights
     * *Context memory* - fed dynamically via the prompt
     * only *context memory* can be changed post-deployment
-  * examples of *external tools* - like calculators (Python) to do math, or search engines to look up facts
+  * for facts, use *external tools* (RAG - retrieval augmented generation) - like calculators (Python) to do math, or search engines to look up facts
   * this is modern LLM architecture in a nutshell
     * *Know when to predict, and when to execute (i.e. call 'tools')*
 
