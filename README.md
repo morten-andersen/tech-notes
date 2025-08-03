@@ -6,6 +6,10 @@ Notes on programming languages, network, systems, calendars, etc.
 * [**SQL**](./sql) - notes on SQL related things
 * [**git**](./git) - notes on git revision control
 
+### AI / Augmented Coding
+
+* [**AI / Augmented Coding**](./ai) - notes on AI, LLMs, Augmented Coding
+
 ### Linux
 
 * [**Linux Notes**](./linux) - Linux notes. Primarily for command line tools
