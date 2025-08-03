@@ -20,6 +20,24 @@
   * just a "pattern generator"
   * stochastic, not deterministic
 * Part 2 post-training - 🌐 [How GPTs Learn to Be Helpful](https://blog.neosage.io/p/how-gpts-learn-to-be-helpful)
+  * *supervised fine-tuning* (SFT)
+  * *reinforcement learning* (RL)
+  * *reinforcement learning with human feedback* (RLHF)
+  * 🌐 [So What Are You Really Talking To?](https://blog.neosage.io/i/161930085/so-what-are-you-really-talking-to)
+    > When you chat with GPT, you’re not talking to a mind.
+    > You’re talking to a model that has:
+    > * Compressed much of the internet into its parameters
+    > * Learned assistant behaviour from curated examples
+    > * Discovered reasoning patterns through RL
+    > * Aligned itself with human judgment through preference modelling
+    > It’s not magic.
+    > It’s layers of optimisation—stacked, fine-tuned, and trained to predict your next token.
+  * models has two kinds of memory
+    * *Parameter memory* - baked into the model weights
+    * *Context memory* - fed dynamically via the prompt
+    * only *context memory* can be changed post-deployment
+  * examples of *external tools* - like calculators (Python) to do math, or search engines to look up facts
+  * this is modern LLM architecture in a nutshell: *Know when to predict, and when to execute (i.e. call 'tools')*
 
 #### 🤖 Working with Augmented Coding
 
