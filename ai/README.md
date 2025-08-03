@@ -10,7 +10,7 @@
 * 🌐 [How does ChatGPT work? Tracing the evolution of AIGC](https://www.dtonomy.com/how-does-chatgpt-work/)
 * 🌐 [The Guardian - Race to AI: the origins of artificial intelligence, from Turing to ChatGPT](https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt)
 
-#### 🤖 Details of Augmented Coding
+#### 🤖 Details of LLMs
 
 🌐 [NeoSage Blog](https://blog.neosage.io)
 
@@ -24,15 +24,18 @@
   * *reinforcement learning* (RL)
   * *reinforcement learning with human feedback* (RLHF)
   * 🌐 [So What Are You Really Talking To?](https://blog.neosage.io/i/161930085/so-what-are-you-really-talking-to)
-    > *When you chat with GPT, you’re not talking to a mind.
-    > You’re talking to a model that has:
-    > * Compressed much of the internet into its parameters
-    > * Learned assistant behaviour from curated examples
-    > * Discovered reasoning patterns through RL
-    > * Aligned itself with human judgment through preference modelling
-    > It’s not magic.
-    > It’s layers of optimisation—stacked, fine-tuned, and trained to predict your next token.*
-  * models has two kinds of memory
+    > 💡 *When you chat with GPT, you’re not talking to a mind.*
+    > *You’re talking to a model that has:*
+    > * *Compressed much of the internet into its parameters*
+    > * *Learned assistant behaviour from curated examples*
+    > * *Discovered reasoning patterns through RL*
+    > * *Aligned itself with human judgment through preference modelling*
+    > *It’s not magic.*
+    > *It’s layers of optimisation—stacked, fine-tuned, and trained to predict your next token.*
+    >
+    > *LLMs don’t understand. They don’t reason.*
+    > 💡 *Treat them as engines to design around, not minds to build on.* 💡
+  * LLM models has two kinds of memory
     * *Parameter memory* - baked into the model weights
     * *Context memory* - fed dynamically via the prompt
     * only *context memory* can be changed post-deployment
