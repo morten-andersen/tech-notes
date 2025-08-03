@@ -30,10 +30,12 @@
     > * *Learned assistant behaviour from curated examples*
     > * *Discovered reasoning patterns through RL*
     > * *Aligned itself with human judgment through preference modelling*
+    >
     > *It’s not magic.*
     > *It’s layers of optimisation—stacked, fine-tuned, and trained to predict your next token.*
     >
     > *LLMs don’t understand. They don’t reason.*
+    >
     > 💡 *Treat them as engines to design around, not minds to build on.* 💡
   * LLM models has two kinds of memory
     * *Parameter memory* - baked into the model weights
