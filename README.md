@@ -2,17 +2,17 @@ Notes on programming languages, network, systems, calendars, etc.
 
 ### Programming Languages and Development Tools
 
-* [**Programming Language Notes**](./programming) - notes on Java, JavaScript, node.js, etc.
-* [**SQL**](./sql) - notes on SQL related things
-* [**git**](./git) - notes on git revision control
+* 🎼 [**Programming Language Notes**](./programming) - notes on Java, JavaScript, node.js, etc.
+* 🛢️ [**SQL**](./sql) - notes on SQL related things
+* 💻 [**git**](./git) - notes on git revision control
 
 ### AI / Augmented Coding
 
-* [**AI / Augmented Coding**](./ai) - notes on AI, LLMs, Augmented Coding
+* 🤖 [**AI / Augmented Coding**](./ai) - notes on AI, LLMs, Augmented Coding
 
 ### Linux
 
-* [**Linux Notes**](./linux) - Linux notes. Primarily for command line tools
+* 🐧 [**Linux Notes**](./linux) - Linux notes. Primarily for command line tools
 
 ### Network and Web
 
@@ -23,7 +23,7 @@ Notes on programming languages, network, systems, calendars, etc.
 
 ### Time
 
-* [**Time Related Notes**](./time) - links to various information about high resolution time as well as to more general information about calendars.
+* ⏱️ [**Time Related Notes**] (./time) - links to various information about high resolution time as well as to more general information about calendars.
 
 ### Text, Encoding, Unicode, Emoji's
 
