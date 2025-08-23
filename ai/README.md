@@ -18,9 +18,11 @@
 * **On AI Hype** - 🌐 [The Dangerous Thing About AI Hype?](https://blog.neosage.io/p/the-dangerous-thing-about-ai-hype) - the four pillars of building with AI
   * **Expert intuition is not replaceable**
     > *AI today can code, write, and generate. But it cannot know.*
+    >
     > *It has no mental model of your product, your users, your trade-offs, or your non-negotiables.*
   * **AI is not magic — it is a tool**
     > *Systems thinking*
+    >
     > *Don't forget that every system AI touches needs guardrails, grounding, and fallback modes.*
   * **Security is more important than speed**
     > *No customer remembers how fast you shipped.*
@@ -29,9 +31,11 @@
     > *But your real edge isn’t in being fast.*
     > *It’s about being fast without compromising trust, traceability, or user safety.*
     > *Cutting corners on plain old security standards in favour of speed isn’t bold.*
+    >
     > *It’s shortsighted.*
   * **Systems are built on discipline, not hype**
     > 💡 *The best Software systems in production today?* 💡
+    >
     > *They aren’t magic. They’re well-architected.*
     > *They’re layered, observable, retrievable, resilient*
     > *because someone treated them like systems, not stunts.*
