@@ -10,9 +10,31 @@
 * 🌐 [How does ChatGPT work? Tracing the evolution of AIGC](https://www.dtonomy.com/how-does-chatgpt-work/)
 * 🌐 [The Guardian - Race to AI: the origins of artificial intelligence, from Turing to ChatGPT](https://www.theguardian.com/technology/2023/oct/28/artificial-intelligence-origins-turing-to-chatgpt)
 
-#### 🤖 Details of LLMs
+#### 🤖 Articles of LLMs and Agent Coding
 
--> 🌐 [NeoSage Blog](https://blog.neosage.io)
+-> 🌐 [**My AI Skeptic Friends Are All Nuts**](https://fly.io/blog/youre-all-nuts/) - pragmatic article on embracing code agents
+-> 🌐 [**NeoSage Blog**])(https://blog.neosage.io) - cut through the hype blog, explaining how LLM and AI coding agents works
+
+* **On AI Hype** - 🌐 [The Dangerous Thing About AI Hype?](https://blog.neosage.io/p/the-dangerous-thing-about-ai-hype) - the four pillars of building with AI
+  * **Expert intuition is not replaceable**
+    > *AI today can code, write, and generate. But it cannot know.*
+    > *It has no mental model of your product, your users, your trade-offs, or your non-negotiables.*
+  * **AI is not magic — it is a tool**
+    > *Systems thinking*
+    > *Don't forget that every system AI touches needs guardrails, grounding, and fallback modes.*
+  * **Security is more important than speed**
+    > *No customer remembers how fast you shipped.*
+    > *They remember when something failed.*
+    >
+    > *But your real edge isn’t in being fast.*
+    > *It’s about being fast without compromising trust, traceability, or user safety.*
+    > *Cutting corners on plain old security standards in favour of speed isn’t bold.*
+    > *It’s shortsighted.*
+  * **Systems are built on discipline, not hype**
+    > 💡 *The best Software systems in production today?* 💡
+    > *They aren’t magic. They’re well-architected.*
+    > *They’re layered, observable, retrievable, resilient*
+    > *because someone treated them like systems, not stunts.*
 
 * **Part 1 pre-training - the base model** - 🌐 [How GPTs Are Born: Internet Feeding, Token by Token](https://blog.neosage.io/p/how-gpts-are-born-internet-feeding)
   * basically a lossy compression of the Internet
