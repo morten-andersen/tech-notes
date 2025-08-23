@@ -13,7 +13,8 @@
 #### 🤖 Articles of LLMs and Agent Coding
 
 -> 🌐 [**My AI Skeptic Friends Are All Nuts**](https://fly.io/blog/youre-all-nuts/) - pragmatic article on embracing code agents
--> 🌐 [**NeoSage Blog**])(https://blog.neosage.io) - cut through the hype blog, explaining how LLM and AI coding agents works
+
+-> 🌐 [**NeoSage Blog**](https://blog.neosage.io) - cut through the hype blog, explaining how LLM and AI coding agents works
 
 * **On AI Hype** - 🌐 [The Dangerous Thing About AI Hype?](https://blog.neosage.io/p/the-dangerous-thing-about-ai-hype) - the four pillars of building with AI
   * **Expert intuition is not replaceable**
