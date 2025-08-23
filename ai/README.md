@@ -12,7 +12,7 @@
 
 #### 🤖 Details of LLMs
 
-🌐 [NeoSage Blog](https://blog.neosage.io)
+-> 🌐 [NeoSage Blog](https://blog.neosage.io)
 
 * **Part 1 pre-training - the base model** - 🌐 [How GPTs Are Born: Internet Feeding, Token by Token](https://blog.neosage.io/p/how-gpts-are-born-internet-feeding)
   * basically a lossy compression of the Internet
