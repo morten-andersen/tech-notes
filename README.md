@@ -21,6 +21,10 @@ Notes on programming languages, network, systems, calendars, etc.
 * 💻 [**Browser Testing**](./tools/browser-testing.md) - Microsoft virtual images for running old Internet Explorer and Edge
 * 🔑 [**Password sharing**](./tools/passwords.md) - services for sharing passwords
 
+### European Alternatives
+
+* 🇪🇺 [**European Alternatives**](https://european-alternatives.eu/) for digital products
+
 ### Time
 
 * ⏱️ [**Time Related Notes**](./time) - links to various information about high resolution time as well as to more general information about calendars.
