@@ -52,7 +52,6 @@ Below is a list of the projects I have donated to over the years.
 * [KeePassXC](https://keepassxc.org/)
 * [SDKMAN!](https://sdkman.io/)
 * [Open Collective](https://opencollective.com/morten-andersen)
-* [Foreningen imod Ulovlig Logning](https://ulovliglogning.dk/) - a campaign to end the mass retention of telecom data in Denmark without any legal foundation. This has on several occasions been demeed clearly illegal by the European Court of Justice.
 
 #### 2021
 
@@ -118,7 +117,6 @@ Below is a list of the projects I have donated to over the years.
 
 * [Lyx](https://www.lyx.org/) - TeX/LaTeX editor
 * [NoScript](https://noscript.net/)
-* [The Libel Reform Campaign](https://senseaboutscience.org/activities/libel-reform/) - a campaign to reform the libel and deformation laws in Great Britain which threatened scientific debate
 
 #### 2009
 
