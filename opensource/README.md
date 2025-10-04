@@ -1,17 +1,17 @@
-### Open Source Donations
+### 📖 Open Source Donations
 
 I am a proud open source software supporter. Mostly financially instead of donation of time and effort.
 
 Below is a list of the projects I have donated to over the years.
 
-#### 2025
+#### 📆 2025
 
 * [Dansk Datahistorisk Forening](https://datamuseum.dk/) - a volunteer run IT history museum and collection focusing on the Danish IT history
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/) - for defending digital privacy, free speech, and innovation on the Internet
 * [Proton](https://proton.me/) - privacy and freedom tools for the Internet. I have been a paying user of their mail services since 2019
 * [deSEC](https://desec.io/) - non-profit EU based free DNS provider running on open source software with full DNSSEC support. Moved to this as private DNS in 2025.
 
-#### 2024
+#### 📆 2024
 
 * [Copenhagen Suborbitals](https://copenhagensuborbitals.com) - the worlds only manned amateur space program. I was supporting this every month from 2011 to 2024
 * [Dansk Datahistorisk Forening](https://datamuseum.dk/)
@@ -26,7 +26,7 @@ Below is a list of the projects I have donated to over the years.
 * [SDKMAN!](https://sdkman.io/) - the Software Development Kit Manager for installing Java related software
 * [Open Collective](https://opencollective.com/morten-andersen) - contributions via Open Collective
 
-#### 2023
+#### 📆 2023
 
 * [Copenhagen Suborbitals](https://copenhagensuborbitals.com)
 * [Dansk Datahistorisk Forening](https://datamuseum.dk/)
@@ -40,7 +40,7 @@ Below is a list of the projects I have donated to over the years.
 * [SDKMAN!](https://sdkman.io/)
 * [Open Collective](https://opencollective.com/morten-andersen)
 
-#### 2022
+#### 📆 2022
 
 * [Copenhagen Suborbitals](https://copenhagensuborbitals.com)
 * [Dansk Datahistorisk Forening](https://datamuseum.dk/)
@@ -53,7 +53,7 @@ Below is a list of the projects I have donated to over the years.
 * [SDKMAN!](https://sdkman.io/)
 * [Open Collective](https://opencollective.com/morten-andersen)
 
-#### 2021
+#### 📆 2021
 
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/)
 * [Ubuntu MATE](https://ubuntu-mate.org/)
@@ -64,12 +64,12 @@ Below is a list of the projects I have donated to over the years.
 * [Tor Project](https://www.torproject.org/)
 * [SDKMAN!](https://sdkman.io/)
 
-#### 2017
+#### 📆 2017
 
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/)
 * [Zeroshell Linux Router](https://web.archive.org/web/20220114033121/https://www.zeroshell.org/) - which I ran on my personal router and wifi access point on a PC Engines [Alix board](https://www.pcengines.ch/alix.htm).
 
-#### 2016
+#### 📆 2016
 
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/)
 * [Enigmail](https://www.enigmail.net/) - OpenPGP plugin for Mozilla Seamonkey and Thunderbird
@@ -84,7 +84,7 @@ Below is a list of the projects I have donated to over the years.
 * [Wikipedia](https://www.wikipedia.org/)
 * [Zeroshell Linux Router](https://web.archive.org/web/20220114033121/https://www.zeroshell.org/)
 
-#### 2014
+#### 📆 2014
 
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/)
 * [KeePassX](https://www.keepassx.org/)
@@ -95,7 +95,7 @@ Below is a list of the projects I have donated to over the years.
 * [Wikipedia](https://www.wikipedia.org/)
 * [Zeroshell Linux Router](https://web.archive.org/web/20220114033121/https://www.zeroshell.org/)
 
-#### 2013
+#### 📆 2013
 
 * [EFF - Electronic Frontier Foundation](https://www.eff.org/)
 * [LibreOffice](https://www.libreoffice.org/)
@@ -104,7 +104,7 @@ Below is a list of the projects I have donated to over the years.
 * [Ubuntu](https://ubuntu.com/)
 * [Zeroshell Linux Router](https://web.archive.org/web/20220114033121/https://www.zeroshell.org/)
 
-#### 2012
+#### 📆 2012
 
 * [KeePassDroid](http://www.keepassdroid.com/) - KeePass password manager for Android
 * [LibreOffice](https://www.libreoffice.org/)
@@ -113,12 +113,12 @@ Below is a list of the projects I have donated to over the years.
 * [Ubuntu](https://ubuntu.com/)
 * [Zeroshell Linux Router](https://web.archive.org/web/20220114033121/https://www.zeroshell.org/)
 
-#### 2010
+#### 📆 2010
 
 * [Lyx](https://www.lyx.org/) - TeX/LaTeX editor
 * [NoScript](https://noscript.net/)
 
-#### 2009
+#### 📆 2009
 
 * [Mozilla Foundation](https://www.mozilla.org)
 * [OpenOffice](https://www.openoffice.org/)
