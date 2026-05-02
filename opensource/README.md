@@ -4,6 +4,12 @@ I am a proud open source software supporter. Mostly financially instead of donat
 
 Below is a list of the projects I have donated to over the years.
 
+#### 📆 2026
+
+* [Dansk Datahistorisk Forening](https://datamuseum.dk/) - a volunteer run IT history museum and collection focusing on the Danish IT history
+* [EFF - Electronic Frontier Foundation](https://www.eff.org/) - for defending digital privacy, free speech, and innovation on the Internet
+* [Proton](https://proton.me/) - privacy and freedom tools for the Internet. I have been a paying user of their mail services since 2019
+
 #### 📆 2025
 
 * [Dansk Datahistorisk Forening](https://datamuseum.dk/) - a volunteer run IT history museum and collection focusing on the Danish IT history
