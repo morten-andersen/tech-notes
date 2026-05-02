@@ -12,9 +12,9 @@ Below is a list of the projects I have donated to over the years.
 
 #### 📆 2025
 
-* [Dansk Datahistorisk Forening](https://datamuseum.dk/) - a volunteer run IT history museum and collection focusing on the Danish IT history
-* [EFF - Electronic Frontier Foundation](https://www.eff.org/) - for defending digital privacy, free speech, and innovation on the Internet
-* [Proton](https://proton.me/) - privacy and freedom tools for the Internet. I have been a paying user of their mail services since 2019
+* [Dansk Datahistorisk Forening](https://datamuseum.dk/)
+* [EFF - Electronic Frontier Foundation](https://www.eff.org/)
+* [Proton](https://proton.me/)
 * [deSEC](https://desec.io/) - non-profit EU based free DNS provider running on open source software with full DNSSEC support. Moved to this as private DNS in 2025
 * [Ubuntu MATE](https://ubuntu-mate.org/) - lightweight Ubuntu version using the MATE desktop manager
 * [Mozilla Foundation](https://www.mozilla.org) - the foundation behind Firefox, Thunderbird, Seamonkey, the Mozilla suite
