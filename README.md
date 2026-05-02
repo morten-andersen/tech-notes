@@ -8,7 +8,7 @@ Notes on programming languages, network, systems, calendars, etc.
 
 ***
 
-### AI / Augmented Coding
+### 🤖 AI / Augmented Coding
 
 * 🤖 [**AI / Augmented Coding**](./ai) - notes on AI, LLMs, Augmented Coding
 
